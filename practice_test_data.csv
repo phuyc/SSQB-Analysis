@@ -1,0 +1,1161 @@
+Test,Subject,Module,Q #,Question code,ID,Domain,Skill,Difficulty,Answer,Order,Response,Correct?
+SAT1,Reading & Writing,1,1,SAT1 RW 1.1,441e2b9e,Craft and Structure,Words in Context,1,A,1,,-
+SAT1,Reading & Writing,1,2,SAT1 RW 1.2,e7d37666,Craft and Structure,Words in Context,3,C,2,,-
+SAT1,Reading & Writing,1,3,SAT1 RW 1.3,e818241b,Craft and Structure,"Text, Structure, and Purpose",3,C,3,,-
+SAT1,Reading & Writing,1,4,SAT1 RW 1.4,6bc0ba75,Craft and Structure,"Text, Structure, and Purpose",3,B,4,,-
+SAT1,Reading & Writing,1,5,SAT1 RW 1.5,f0ae0da3,Craft and Structure,Cross-Text Connections,2,C,5,,-
+SAT1,Reading & Writing,1,6,SAT1 RW 1.6,3543e6e2,Information and Ideas,Central Ideas and Details,1,D,6,,-
+SAT1,Reading & Writing,1,7,SAT1 RW 1.7,835545cd,Information and Ideas,Central Ideas and Details,2,D,7,,-
+SAT1,Reading & Writing,1,8,SAT1 RW 1.8,16025337,Information and Ideas,Central Ideas and Details,3,D,8,,-
+SAT1,Reading & Writing,1,9,SAT1 RW 1.9,8391a002,Information and Ideas,Command of Evidence,3,B,9,,-
+SAT1,Reading & Writing,1,10,SAT1 RW 1.10,55df0275,Information and Ideas,Command of Evidence,3,C,10,,-
+SAT1,Reading & Writing,1,11,SAT1 RW 1.11,702eb7e3,Information and Ideas,Command of Evidence,3,D,11,,-
+SAT1,Reading & Writing,1,12,SAT1 RW 1.12,014b3394,Information and Ideas,Command of Evidence,3,C,12,,-
+SAT1,Reading & Writing,1,13,SAT1 RW 1.13,3fc06a91,Information and Ideas,Command of Evidence,3,A,13,,-
+SAT1,Reading & Writing,1,14,SAT1 RW 1.14,4a85fea6,Information and Ideas,Inferences,2,D,14,,-
+SAT1,Reading & Writing,1,15,SAT1 RW 1.15,cabe71d4,Standard English Conventions,Boundaries,1,B,15,,-
+SAT1,Reading & Writing,1,16,SAT1 RW 1.16,3595a991,Standard English Conventions,"Form, Structure, and Sense",2,B,16,,-
+SAT1,Reading & Writing,1,17,SAT1 RW 1.17,b15724fc,Standard English Conventions,Boundaries,3,D,17,,-
+SAT1,Reading & Writing,1,18,SAT1 RW 1.18,7f1df833,Standard English Conventions,"Form, Structure, and Sense",2,A,18,,-
+SAT1,Reading & Writing,1,19,SAT1 RW 1.19,2fd05c15,Standard English Conventions,Boundaries,3,C,19,,-
+SAT1,Reading & Writing,1,20,SAT1 RW 1.20,b85c19ed,Standard English Conventions,"Form, Structure, and Sense",2,D,20,,-
+SAT1,Reading & Writing,1,21,SAT1 RW 1.21,be37d4ae,Standard English Conventions,Boundaries,3,C,21,,-
+SAT1,Reading & Writing,1,22,SAT1 RW 1.22,4fde4454,Expression of Ideas,Transitions,2,D,22,,-
+SAT1,Reading & Writing,1,23,SAT1 RW 1.23,52b31d7b,Expression of Ideas,Transitions,2,A,23,,-
+SAT1,Reading & Writing,1,24,SAT1 RW 1.24,08be6347,Expression of Ideas,Transitions,2,D,24,,-
+SAT1,Reading & Writing,1,25,SAT1 RW 1.25,9e34720b,Expression of Ideas,Transitions,2,C,25,,-
+SAT1,Reading & Writing,1,26,SAT1 RW 1.26,63a4fa29,Expression of Ideas,Rhetorical Synthesis,2,B,26,,-
+SAT1,Reading & Writing,1,27,SAT1 RW 1.27,5bb7dc03,Expression of Ideas,Rhetorical Synthesis,2,A,27,,-
+SAT1,Reading & Writing,2,1,SAT1 RW 2.1,83687083,Craft and Structure,Words in Context,1,C,28,,-
+SAT1,Reading & Writing,2,2,SAT1 RW 2.2,daaed806,Craft and Structure,Words in Context,1,D,29,,-
+SAT1,Reading & Writing,2,3,SAT1 RW 2.3,97ab5669,Craft and Structure,Words in Context,1,B,30,,-
+SAT1,Reading & Writing,2,4,SAT1 RW 2.4,4d1a9c0d,Craft and Structure,Words in Context,1,D,31,,-
+SAT1,Reading & Writing,2,5,SAT1 RW 2.5,f6d1f735,Craft and Structure,Words in Context,1,A,32,,-
+SAT1,Reading & Writing,2,6,SAT1 RW 2.6,31d0bd9a,Craft and Structure,Words in Context,1,A,33,,-
+SAT1,Reading & Writing,2,7,SAT1 RW 2.7,21d95d1d,Craft and Structure,Words in Context,1,C,34,,-
+SAT1,Reading & Writing,2,8,SAT1 RW 2.8,81a3a607,Craft and Structure,Words in Context,2,D,35,,-
+SAT1,Reading & Writing,2,9,SAT1 RW 2.9,baef99a5,Information and Ideas,Central Ideas and Details,1,B,36,,-
+SAT1,Reading & Writing,2,10,SAT1 RW 2.10,81af81d4,Information and Ideas,Command of Evidence,2,C,37,,-
+SAT1,Reading & Writing,2,11,SAT1 RW 2.11,25176ff8,Information and Ideas,Command of Evidence,2,C,38,,-
+SAT1,Reading & Writing,2,12,SAT1 RW 2.12,fbb84fb0,Information and Ideas,Command of Evidence,2,B,39,,-
+SAT1,Reading & Writing,2,13,SAT1 RW 2.13,9391b7cc,Information and Ideas,Inferences,3,B,40,,-
+SAT1,Reading & Writing,2,14,SAT1 RW 2.14,e185a21f,Information and Ideas,Inferences,3,A,41,,-
+SAT1,Reading & Writing,2,15,SAT1 RW 2.15,5632ffb4,Information and Ideas,Inferences,3,A,42,,-
+SAT1,Reading & Writing,2,16,SAT1 RW 2.16,0dba14e6,Information and Ideas,Inferences,3,D,43,,-
+SAT1,Reading & Writing,2,17,SAT1 RW 2.17,166efaa2,Standard English Conventions,"Form, Structure, and Sense",1,A,44,,-
+SAT1,Reading & Writing,2,18,SAT1 RW 2.18,576b2c70,Standard English Conventions,"Form, Structure, and Sense",1,A,45,,-
+SAT1,Reading & Writing,2,19,SAT1 RW 2.19,70ced8dc,Standard English Conventions,Boundaries,1,A,46,,-
+SAT1,Reading & Writing,2,20,SAT1 RW 2.20,430d929a,Standard English Conventions,"Form, Structure, and Sense",1,C,47,,-
+SAT1,Reading & Writing,2,21,SAT1 RW 2.21,4bed4658,Standard English Conventions,"Form, Structure, and Sense",1,B,48,,-
+SAT1,Reading & Writing,2,22,SAT1 RW 2.22,4565a53c,Standard English Conventions,Boundaries,1,D,49,,-
+SAT1,Reading & Writing,2,23,SAT1 RW 2.23,2ee50d41,Standard English Conventions,"Form, Structure, and Sense",1,A,50,,-
+SAT1,Reading & Writing,2,24,SAT1 RW 2.24,c78620ba,Expression of Ideas,Transitions,1,C,51,,-
+SAT1,Reading & Writing,2,25,SAT1 RW 2.25,827afb27,Expression of Ideas,Transitions,1,A,52,,-
+SAT1,Reading & Writing,2,26,SAT1 RW 2.26,660d50dc,Expression of Ideas,Transitions,1,A,53,,-
+SAT1,Reading & Writing,2,27,SAT1 RW 2.27,2c61e0b9,Expression of Ideas,Rhetorical Synthesis,3,D,54,,-
+SAT1,Reading & Writing,3,1,SAT1 RW 3.1,1ad04ea0,Craft and Structure,Words in Context,1,B,55,,-
+SAT1,Reading & Writing,3,2,SAT1 RW 3.2,1fa751f1,Craft and Structure,Words in Context,2,A,56,,-
+SAT1,Reading & Writing,3,3,SAT1 RW 3.3,e0656211,Craft and Structure,Words in Context,2,B,57,,-
+SAT1,Reading & Writing,3,4,SAT1 RW 3.4,f83f0aab,Craft and Structure,Words in Context,3,C,58,,-
+SAT1,Reading & Writing,3,5,SAT1 RW 3.5,aaa3ee7c,Craft and Structure,Words in Context,3,D,59,,-
+SAT1,Reading & Writing,3,6,SAT1 RW 3.6,571cf537,Craft and Structure,Words in Context,3,B,60,,-
+SAT1,Reading & Writing,3,7,SAT1 RW 3.7,a756aa95,Craft and Structure,Words in Context,3,D,61,,-
+SAT1,Reading & Writing,3,8,SAT1 RW 3.8,21d95d1d,Craft and Structure,Words in Context,1,C,62,,-
+SAT1,Reading & Writing,3,9,SAT1 RW 3.9,303537cf,Information and Ideas,Central Ideas and Details,3,D,63,,-
+SAT1,Reading & Writing,3,10,SAT1 RW 3.10,9aa5efc4,Information and Ideas,Command of Evidence,2,A,64,,-
+SAT1,Reading & Writing,3,11,SAT1 RW 3.11,7f293254,Information and Ideas,Command of Evidence,3,A,65,,-
+SAT1,Reading & Writing,3,12,SAT1 RW 3.12,c2c61e7d,Information and Ideas,Command of Evidence,3,D,66,,-
+SAT1,Reading & Writing,3,13,SAT1 RW 3.13,0240d11c,Information and Ideas,Command of Evidence,3,D,67,,-
+SAT1,Reading & Writing,3,14,SAT1 RW 3.14,4f9f8ea6,Information and Ideas,Inferences,3,D,68,,-
+SAT1,Reading & Writing,3,15,SAT1 RW 3.15,f2250478,Information and Ideas,Inferences,3,B,69,,-
+SAT1,Reading & Writing,3,16,SAT1 RW 3.16,0dba14e6,Information and Ideas,Inferences,3,D,70,,-
+SAT1,Reading & Writing,3,17,SAT1 RW 3.17,59a246dc,Standard English Conventions,Boundaries,3,D,71,,-
+SAT1,Reading & Writing,3,18,SAT1 RW 3.18,7a0d9031,Standard English Conventions,"Form, Structure, and Sense",2,D,72,,-
+SAT1,Reading & Writing,3,19,SAT1 RW 3.19,5aae2475,Standard English Conventions,Boundaries,3,C,73,,-
+SAT1,Reading & Writing,3,20,SAT1 RW 3.20,2c4cd76d,Standard English Conventions,Boundaries,3,A,74,,-
+SAT1,Reading & Writing,3,21,SAT1 RW 3.21,8a9d2f4e,Standard English Conventions,"Form, Structure, and Sense",3,B,75,,-
+SAT1,Reading & Writing,3,22,SAT1 RW 3.22,84658166,Standard English Conventions,Boundaries,3,A,76,,-
+SAT1,Reading & Writing,3,23,SAT1 RW 3.23,8622320e,Expression of Ideas,Transitions,2,A,77,,-
+SAT1,Reading & Writing,3,24,SAT1 RW 3.24,601b9d18,Expression of Ideas,Transitions,2,B,78,,-
+SAT1,Reading & Writing,3,25,SAT1 RW 3.25,e1b00a70,Expression of Ideas,Transitions,2,D,79,,-
+SAT1,Reading & Writing,3,26,SAT1 RW 3.26,0fab0c90,Expression of Ideas,Rhetorical Synthesis,3,C,80,,-
+SAT1,Reading & Writing,3,27,SAT1 RW 3.27,56b000d0,Expression of Ideas,Rhetorical Synthesis,3,A,81,,-
+SAT1,Math,1,1,SAT1 M 1.1,52f9a246,Problem-Solving,One-variable data,1,A,82,,-
+SAT1,Math,1,2,SAT1 M 1.2,5d93c782,Advanced Math,Equivalent Expressions,1,B,83,,-
+SAT1,Math,1,3,SAT1 M 1.3,174885f8,Algebra,Linear Equations in Two Variables,1,A,84,,-
+SAT1,Math,1,4,SAT1 M 1.4,f1747a6a,Geometry and Trigonometry,"Lines, Angles, and Triangles",1,D,85,,-
+SAT1,Math,1,5,SAT1 M 1.5,f0773a55,Algebra,Linear Functions,2,A,86,,-
+SAT1,Math,1,6,SAT1 M 1.6,e9ed719f,Problem-Solving,Probability,2,0.3,87,,-
+SAT1,Math,1,7,SAT1 M 1.7,f04d40b2,Problem-Solving,Sample Statistics and Margin of Error,2,C,88,,-
+SAT1,Math,1,8,SAT1 M 1.8,bef4b1c6,Advanced Math,Nonlinear Equations and Systems,2,5,89,,-
+SAT1,Math,1,9,SAT1 M 1.9,43744269,Problem-Solving,Two-variable data,1,B,90,,-
+SAT1,Math,1,10,SAT1 M 1.10,45df91ee,Advanced Math,Nonlinear Functions,2,A,91,,-
+SAT1,Math,1,11,SAT1 M 1.11,0815a5af,Geometry and Trigonometry,Circles,2,B,92,,-
+SAT1,Math,1,12,SAT1 M 1.12,d4950429,Advanced Math,Nonlinear Functions,2,B,93,,-
+SAT1,Math,1,13,SAT1 M 1.13,52b1700c,Advanced Math,Nonlinear Functions,2,C,94,,-
+SAT1,Math,1,14,SAT1 M 1.14,0dd6227f,Algebra,Systems of Linear Equations,2,B,95,,-
+SAT1,Math,1,15,SAT1 M 1.15,2d54c272,Algebra,Linear Equations in Two Variables,3,40,96,,-
+SAT1,Math,1,16,SAT1 M 1.16,7ba694f3,Advanced Math,Nonlinear Functions,2,D,97,,-
+SAT1,Math,1,17,SAT1 M 1.17,c0586eb5,Geometry and Trigonometry,Area and Volume,2,C,98,,-
+SAT1,Math,1,18,SAT1 M 1.18,2875ba81,Algebra,Systems of Linear Equations,2,A,99,,-
+SAT1,Math,1,19,SAT1 M 1.19,8027db3f,Geometry and Trigonometry,Right Triangles and Trigonometry,3,15/17,100,,-
+SAT1,Math,1,20,SAT1 M 1.20,6d9e01a2,Advanced Math,Nonlinear Functions,3,6.25,101,,-
+SAT1,Math,1,21,SAT1 M 1.21,b9835972,Algebra,Linear Equations in Two Variables,3,24,102,,-
+SAT1,Math,1,22,SAT1 M 1.22,f5aa5040,Advanced Math,Nonlinear Equations and Systems,3,20.25,103,,-
+SAT1,Math,2,1,SAT1 M 2.1,66f03086,Problem-Solving,One-variable data,1,B,104,,-
+SAT1,Math,2,2,SAT1 M 2.2,87071893,Algebra,Linear Equations in One Variable,1,55,105,,-
+SAT1,Math,2,3,SAT1 M 2.3,d2047497,Geometry and Trigonometry,Area and Volume,1,C,106,,-
+SAT1,Math,2,4,SAT1 M 2.4,0536ad4f,Advanced Math,Equivalent Expressions,1,B,107,,-
+SAT1,Math,2,5,SAT1 M 2.5,0eae6be1,Algebra,Linear Functions,1,D,108,,-
+SAT1,Math,2,6,SAT1 M 2.6,6d04c89d,Advanced Math,Equivalent Expressions,2,A,109,,-
+SAT1,Math,2,7,SAT1 M 2.7,eaab8bc1,Problem-Solving,Percentages,1,240,110,,-
+SAT1,Math,2,8,SAT1 M 2.8,68f2cbaf,Algebra,Linear Inequalities,1,B,111,,-
+SAT1,Math,2,9,SAT1 M 2.9,3c4ce699,Algebra,Linear Equations in One Variable,1,27,112,,-
+SAT1,Math,2,10,SAT1 M 2.10,20722644,Advanced Math,Nonlinear Functions,1,C,113,,-
+SAT1,Math,2,11,SAT1 M 2.11,88e13c8c,Algebra,Linear Functions,1,C,114,,-
+SAT1,Math,2,12,SAT1 M 2.12,a73a5c22,Algebra,Linear Functions,1,D,115,,-
+SAT1,Math,2,13,SAT1 M 2.13,3b4b5b1e,Geometry and Trigonometry,"Lines, Angles, and Triangles",1,47,116,,-
+SAT1,Math,2,14,SAT1 M 2.14,94b48cbf,Algebra,Linear Equations in Two Variables,3,D,117,,-
+SAT1,Math,2,15,SAT1 M 2.15,7cd1c6db,Problem-Solving,"Ratios, Rates, Proportions, and Units",1,A,118,,-
+SAT1,Math,2,16,SAT1 M 2.16,6105234d,Algebra,Linear Equations in One Variable,1,C,119,,-
+SAT1,Math,2,17,SAT1 M 2.17,ba79f10f,Algebra,Linear Equations in Two Variables,1,D,120,,-
+SAT1,Math,2,18,SAT1 M 2.18,3918e8bc,Advanced Math,Nonlinear Functions,2,D,121,,-
+SAT1,Math,2,19,SAT1 M 2.19,044c1cb7,Advanced Math,Nonlinear Functions,1,B,122,,-
+SAT1,Math,2,20,SAT1 M 2.20,23dedddd,Algebra,Linear Functions,2,D,123,,-
+SAT1,Math,2,21,SAT1 M 2.21,11ccf3e1,Advanced Math,Nonlinear Equations and Systems,2,A,124,,-
+SAT1,Math,2,22,SAT1 M 2.22,0e709a29,Geometry and Trigonometry,Right Triangles and Trigonometry,3,D,125,,-
+SAT1,Math,3,1,SAT1 M 3.1,67e866b5,Advanced Math,Equivalent Expressions,1,D,126,,-
+SAT1,Math,3,2,SAT1 M 3.2,3a6ed720,Problem-Solving,Percentages,1,D,127,,-
+SAT1,Math,3,3,SAT1 M 3.3,ce6b52d8,Algebra,Linear Equations in One Variable,2,60,128,,-
+SAT1,Math,3,4,SAT1 M 3.4,620abf36,Algebra,Linear Equations in One Variable,2,C,129,,-
+SAT1,Math,3,5,SAT1 M 3.5,038d87d7,Algebra,Linear Equations in Two Variables,2,A,130,,-
+SAT1,Math,3,6,SAT1 M 3.6,51c9d65f,Problem-Solving,"Ratios, Rates, Proportions, and Units",2,B,131,,-
+SAT1,Math,3,7,SAT1 M 3.7,29ed5d39,Advanced Math,Nonlinear Equations and Systems,2,D,132,,-
+SAT1,Math,3,8,SAT1 M 3.8,6d04c89d,Advanced Math,Equivalent Expressions,2,A,133,,-
+SAT1,Math,3,9,SAT1 M 3.9,b8a225ff,Geometry and Trigonometry,Circles,3,16,134,,-
+SAT1,Math,3,10,SAT1 M 3.10,03503d49,Algebra,Linear Inequalities,3,B,135,,-
+SAT1,Math,3,11,SAT1 M 3.11,7dbd46d9,Advanced Math,Nonlinear Equations and Systems,3,A,136,,-
+SAT1,Math,3,12,SAT1 M 3.12,25e1cfed,Algebra,Linear Equations in One Variable,3,C,137,,-
+SAT1,Math,3,13,SAT1 M 3.13,bba18ecb,Advanced Math,Nonlinear Functions,3,B,138,,-
+SAT1,Math,3,14,SAT1 M 3.14,05bb1af9,Algebra,Linear Equations in Two Variables,3,A,139,,-
+SAT1,Math,3,15,SAT1 M 3.15,6011a3f8,Advanced Math,Nonlinear Equations and Systems,3,A,140,,-
+SAT1,Math,3,16,SAT1 M 3.16,94b48cbf,Algebra,Linear Equations in Two Variables,3,D,141,,-
+SAT1,Math,3,17,SAT1 M 3.17,f75bd744,Algebra,Systems of Linear Equations,3,8,142,,-
+SAT1,Math,3,18,SAT1 M 3.18,ffe862a3,Geometry and Trigonometry,Right Triangles and Trigonometry,3,C,143,,-
+SAT1,Math,3,19,SAT1 M 3.19,50f4cb9c,Algebra,Linear Functions,3,D,144,,-
+SAT1,Math,3,20,SAT1 M 3.20,190be2fc,Problem-Solving,One-variable data,3,52,145,,-
+SAT1,Math,3,21,SAT1 M 3.21,bbf9e5ce,Algebra,Linear Functions,3,A,146,,-
+SAT1,Math,3,22,SAT1 M 3.22,f7dbde16,Geometry and Trigonometry,"Lines, Angles, and Triangles",3,D,147,,-
+SAT2,Reading & Writing,1,1,SAT2 RW 1.1,69a6d050,Craft and Structure,Words in Context,1,A,148,,-
+SAT2,Reading & Writing,1,2,SAT2 RW 1.2,cd2ce51f,Craft and Structure,Words in Context,2,C,149,,-
+SAT2,Reading & Writing,1,3,SAT2 RW 1.3,757077f9,Craft and Structure,Words in Context,2,B,150,,-
+SAT2,Reading & Writing,1,4,SAT2 RW 1.4,3566120b,Craft and Structure,Words in Context,3,C,151,,-
+SAT2,Reading & Writing,1,5,SAT2 RW 1.5,c4900368,Craft and Structure,"Text, Structure, and Purpose",2,A,152,,-
+SAT2,Reading & Writing,1,6,SAT2 RW 1.6,749f3334,Craft and Structure,"Text, Structure, and Purpose",2,B,153,,-
+SAT2,Reading & Writing,1,7,SAT2 RW 1.7,d69bc408,Craft and Structure,"Text, Structure, and Purpose",2,A,154,,-
+SAT2,Reading & Writing,1,8,SAT2 RW 1.8,3a1f02b0,Information and Ideas,Central Ideas and Details,1,D,155,,-
+SAT2,Reading & Writing,1,9,SAT2 RW 1.9,d73a908a,Information and Ideas,Central Ideas and Details,2,D,156,,-
+SAT2,Reading & Writing,1,10,SAT2 RW 1.10,5eda42a3,Information and Ideas,Central Ideas and Details,3,A,157,,-
+SAT2,Reading & Writing,1,11,SAT2 RW 1.11,2ef8e367,Information and Ideas,Command of Evidence,2,A,158,,-
+SAT2,Reading & Writing,1,12,SAT2 RW 1.12,94978129,Information and Ideas,Command of Evidence,2,B,159,,-
+SAT2,Reading & Writing,1,13,SAT2 RW 1.13,b30a2613,Information and Ideas,Command of Evidence,2,B,160,,-
+SAT2,Reading & Writing,1,14,SAT2 RW 1.14,54057e3f,Information and Ideas,Inferences,2,A,161,,-
+SAT2,Reading & Writing,1,15,SAT2 RW 1.15,fcaff694,Standard English Conventions,Boundaries,2,C,162,,-
+SAT2,Reading & Writing,1,16,SAT2 RW 1.16,4ba99a6f,Standard English Conventions,Boundaries,2,B,163,,-
+SAT2,Reading & Writing,1,17,SAT2 RW 1.17,145d5ca7,Standard English Conventions,Boundaries,2,D,164,,-
+SAT2,Reading & Writing,1,18,SAT2 RW 1.18,d2b81427,Standard English Conventions,"Form, Structure, and Sense",3,A,165,,-
+SAT2,Reading & Writing,1,19,SAT2 RW 1.19,78b88c04,Standard English Conventions,Boundaries,3,C,166,,-
+SAT2,Reading & Writing,1,20,SAT2 RW 1.20,c468db1c,Standard English Conventions,Boundaries,3,D,167,,-
+SAT2,Reading & Writing,1,21,SAT2 RW 1.21,17e49403,Expression of Ideas,Transitions,2,A,168,,-
+SAT2,Reading & Writing,1,22,SAT2 RW 1.22,3067723b,Expression of Ideas,Rhetorical Synthesis,1,B,169,,-
+SAT2,Reading & Writing,1,23,SAT2 RW 1.23,a86c0b1b,Expression of Ideas,Rhetorical Synthesis,2,C,170,,-
+SAT2,Reading & Writing,1,24,SAT2 RW 1.24,d9d314d9,Expression of Ideas,Rhetorical Synthesis,2,C,171,,-
+SAT2,Reading & Writing,1,25,SAT2 RW 1.25,f1631638,Expression of Ideas,Rhetorical Synthesis,2,C,172,,-
+SAT2,Reading & Writing,1,26,SAT2 RW 1.26,94f4eecb,Expression of Ideas,Rhetorical Synthesis,2,D,173,,-
+SAT2,Reading & Writing,1,27,SAT2 RW 1.27,54c1b2dd,Expression of Ideas,Rhetorical Synthesis,2,C,174,,-
+SAT2,Reading & Writing,2,1,SAT2 RW 2.1,f773a56b,Craft and Structure,Words in Context,1,B,175,,-
+SAT2,Reading & Writing,2,2,SAT2 RW 2.2,f8ca5766,Craft and Structure,Words in Context,1,B,176,,-
+SAT2,Reading & Writing,2,3,SAT2 RW 2.3,44cc5f75,Craft and Structure,Words in Context,1,D,177,,-
+SAT2,Reading & Writing,2,4,SAT2 RW 2.4,6d5ddea4,Craft and Structure,Words in Context,1,D,178,,-
+SAT2,Reading & Writing,2,5,SAT2 RW 2.5,9e501aaf,Craft and Structure,Words in Context,1,A,179,,-
+SAT2,Reading & Writing,2,6,SAT2 RW 2.6,0ee67e09,Craft and Structure,Words in Context,1,B,180,,-
+SAT2,Reading & Writing,2,7,SAT2 RW 2.7,a318c1ef,Craft and Structure,Words in Context,1,C,181,,-
+SAT2,Reading & Writing,2,8,SAT2 RW 2.8,d0198544,Craft and Structure,Cross-Text Connections,3,D,182,,-
+SAT2,Reading & Writing,2,9,SAT2 RW 2.9,c228bd45,Information and Ideas,Central Ideas and Details,1,C,183,,-
+SAT2,Reading & Writing,2,10,SAT2 RW 2.10,03e5cf33,Information and Ideas,Command of Evidence,2,A,184,,-
+SAT2,Reading & Writing,2,11,SAT2 RW 2.11,742fd8ba,Information and Ideas,Command of Evidence,2,D,185,,-
+SAT2,Reading & Writing,2,12,SAT2 RW 2.12,99fdf71c,Information and Ideas,Command of Evidence,2,B,186,,-
+SAT2,Reading & Writing,2,13,SAT2 RW 2.13,e946a32e,Information and Ideas,Command of Evidence,3,B,187,,-
+SAT2,Reading & Writing,2,14,SAT2 RW 2.14,f3f444bc,Information and Ideas,Inferences,2,A,188,,-
+SAT2,Reading & Writing,2,15,SAT2 RW 2.15,f27559d4,Information and Ideas,Inferences,3,B,189,,-
+SAT2,Reading & Writing,2,16,SAT2 RW 2.16,96c720af,Standard English Conventions,"Form, Structure, and Sense",1,B,190,,-
+SAT2,Reading & Writing,2,17,SAT2 RW 2.17,b5b74c3f,Standard English Conventions,"Form, Structure, and Sense",1,C,191,,-
+SAT2,Reading & Writing,2,18,SAT2 RW 2.18,50445680,Standard English Conventions,"Form, Structure, and Sense",1,C,192,,-
+SAT2,Reading & Writing,2,19,SAT2 RW 2.19,e3b72630,Standard English Conventions,"Form, Structure, and Sense",1,D,193,,-
+SAT2,Reading & Writing,2,20,SAT2 RW 2.20,988c78eb,Standard English Conventions,"Form, Structure, and Sense",1,C,194,,-
+SAT2,Reading & Writing,2,21,SAT2 RW 2.21,15d6d837,Standard English Conventions,"Form, Structure, and Sense",1,A,195,,-
+SAT2,Reading & Writing,2,22,SAT2 RW 2.22,52b61716,Standard English Conventions,"Form, Structure, and Sense",1,B,196,,-
+SAT2,Reading & Writing,2,23,SAT2 RW 2.23,1f8cd95f,Standard English Conventions,"Form, Structure, and Sense",2,A,197,,-
+SAT2,Reading & Writing,2,24,SAT2 RW 2.24,57bcd0d6,Expression of Ideas,Transitions,1,A,198,,-
+SAT2,Reading & Writing,2,25,SAT2 RW 2.25,4f2710ab,Expression of Ideas,Transitions,1,B,199,,-
+SAT2,Reading & Writing,2,26,SAT2 RW 2.26,87d8a2ff,Expression of Ideas,Transitions,1,A,200,,-
+SAT2,Reading & Writing,2,27,SAT2 RW 2.27,129089b5,Expression of Ideas,Transitions,2,D,201,,-
+SAT2,Reading & Writing,3,1,SAT2 RW 3.1,f4166aae,Craft and Structure,Words in Context,2,A,202,,-
+SAT2,Reading & Writing,3,2,SAT2 RW 3.2,f99847ed,Craft and Structure,Words in Context,3,B,203,,-
+SAT2,Reading & Writing,3,3,SAT2 RW 3.3,a60b0004,Craft and Structure,Words in Context,3,D,204,,-
+SAT2,Reading & Writing,3,4,SAT2 RW 3.4,a06c434d,Craft and Structure,Words in Context,3,C,205,,-
+SAT2,Reading & Writing,3,5,SAT2 RW 3.5,c885c38b,Craft and Structure,Cross-Text Connections,3,B,206,,-
+SAT2,Reading & Writing,3,6,SAT2 RW 3.6,66c47028,Information and Ideas,Central Ideas and Details,2,A,207,,-
+SAT2,Reading & Writing,3,7,SAT2 RW 3.7,1c69ff20,Information and Ideas,Central Ideas and Details,3,D,208,,-
+SAT2,Reading & Writing,3,8,SAT2 RW 3.8,c228bd45,Information and Ideas,Central Ideas and Details,1,C,209,,-
+SAT2,Reading & Writing,3,9,SAT2 RW 3.9,37e15265,Information and Ideas,Command of Evidence,3,B,210,,-
+SAT2,Reading & Writing,3,10,SAT2 RW 3.10,d102706f,Information and Ideas,Command of Evidence,3,C,211,,-
+SAT2,Reading & Writing,3,11,SAT2 RW 3.11,8584f3ce,Information and Ideas,Command of Evidence,3,C,212,,-
+SAT2,Reading & Writing,3,12,SAT2 RW 3.12,6536183b,Information and Ideas,Command of Evidence,3,C,213,,-
+SAT2,Reading & Writing,3,13,SAT2 RW 3.13,b5e9f3c2,Information and Ideas,Inferences,3,B,214,,-
+SAT2,Reading & Writing,3,14,SAT2 RW 3.14,3f236877,Information and Ideas,Inferences,3,C,215,,-
+SAT2,Reading & Writing,3,15,SAT2 RW 3.15,ac285054,Information and Ideas,Inferences,3,C,216,,-
+SAT2,Reading & Writing,3,16,SAT2 RW 3.16,9f737b2a,Standard English Conventions,"Form, Structure, and Sense",2,C,217,,-
+SAT2,Reading & Writing,3,17,SAT2 RW 3.17,a8fa749a,Standard English Conventions,Boundaries,3,B,218,,-
+SAT2,Reading & Writing,3,18,SAT2 RW 3.18,188f7e3c,Standard English Conventions,"Form, Structure, and Sense",3,B,219,,-
+SAT2,Reading & Writing,3,19,SAT2 RW 3.19,62120607,Standard English Conventions,Boundaries,3,B,220,,-
+SAT2,Reading & Writing,3,20,SAT2 RW 3.20,2dd1b8bf,Standard English Conventions,"Form, Structure, and Sense",3,D,221,,-
+SAT2,Reading & Writing,3,21,SAT2 RW 3.21,e3b72630,Standard English Conventions,"Form, Structure, and Sense",1,D,222,,-
+SAT2,Reading & Writing,3,22,SAT2 RW 3.22,c06af4d8,Standard English Conventions,Boundaries,3,A,223,,-
+SAT2,Reading & Writing,3,23,SAT2 RW 3.23,6081831f,Expression of Ideas,Transitions,1,B,224,,-
+SAT2,Reading & Writing,3,24,SAT2 RW 3.24,b8eec031,Expression of Ideas,Transitions,2,D,225,,-
+SAT2,Reading & Writing,3,25,SAT2 RW 3.25,9502ec65,Expression of Ideas,Transitions,3,A,226,,-
+SAT2,Reading & Writing,3,26,SAT2 RW 3.26,6351062d,Expression of Ideas,Rhetorical Synthesis,2,C,227,,-
+SAT2,Reading & Writing,3,27,SAT2 RW 3.27,39ccb463,Expression of Ideas,Rhetorical Synthesis,3,A,228,,-
+SAT2,Math,1,1,SAT2 M 1.1,e7b6f0d1,Algebra,Linear Equations in One Variable,1,C,229,,-
+SAT2,Math,1,2,SAT2 M 1.2,5207e508,Geometry and Trigonometry,"Lines, Angles, and Triangles",1,D,230,,-
+SAT2,Math,1,3,SAT2 M 1.3,7760c516,Problem-Solving,One-variable data,1,9,231,,-
+SAT2,Math,1,4,SAT2 M 1.4,637022d2,Algebra,Linear Equations in Two Variables,2,A,232,,-
+SAT2,Math,1,5,SAT2 M 1.5,e336a1d2,Geometry and Trigonometry,Area and Volume,2,D,233,,-
+SAT2,Math,1,6,SAT2 M 1.6,e9f4521a,Problem-Solving,Percentages,2,52,234,,-
+SAT2,Math,1,7,SAT2 M 1.7,c048055c,Advanced Math,Nonlinear Functions,2,D,235,,-
+SAT2,Math,1,8,SAT2 M 1.8,13e57f0a,Advanced Math,Nonlinear Equations and Systems,2,B,236,,-
+SAT2,Math,1,9,SAT2 M 1.9,d94018fd,Problem-Solving,One-variable data,2,B,237,,-
+SAT2,Math,1,10,SAT2 M 1.10,cc6ccd71,Advanced Math,Nonlinear Functions,2,C,238,,-
+SAT2,Math,1,11,SAT2 M 1.11,f1c81b3b,Advanced Math,Nonlinear Functions,2,11875,239,,-
+SAT2,Math,1,12,SAT2 M 1.12,895628b5,Advanced Math,Nonlinear Equations and Systems,2,C,240,,-
+SAT2,Math,1,13,SAT2 M 1.13,bcb66188,Geometry and Trigonometry,Right Triangles and Trigonometry,2,B,241,,-
+SAT2,Math,1,14,SAT2 M 1.14,90bcaa61,Advanced Math,Nonlinear Functions,2,410,242,,-
+SAT2,Math,1,15,SAT2 M 1.15,95ed0b69,Advanced Math,Nonlinear Equations and Systems,2,A,243,,-
+SAT2,Math,1,16,SAT2 M 1.16,db422e7f,Algebra,Linear Equations in Two Variables,3,0.5,244,,-
+SAT2,Math,1,17,SAT2 M 1.17,249d3f80,Geometry and Trigonometry,Circles,3,100,245,,-
+SAT2,Math,1,18,SAT2 M 1.18,252a3b3a,Advanced Math,Nonlinear Functions,2,B,246,,-
+SAT2,Math,1,19,SAT2 M 1.19,9b5b23fc,Problem-Solving,Two-variable data,3,D,247,,-
+SAT2,Math,1,20,SAT2 M 1.20,841ef26c,Advanced Math,Nonlinear Functions,3,A,248,,-
+SAT2,Math,1,21,SAT2 M 1.21,916ffe9b,Problem-Solving,Sample Statistics and Margin of Error,3,B,249,,-
+SAT2,Math,1,22,SAT2 M 1.22,77c0cced,Advanced Math,Nonlinear Equations and Systems,3,C,250,,-
+SAT2,Math,2,1,SAT2 M 2.1,c841e8e8,Algebra,Linear Equations in One Variable,1,B,251,,-
+SAT2,Math,2,2,SAT2 M 2.2,2e511919,Problem-Solving,Two-variable data,1,B,252,,-
+SAT2,Math,2,3,SAT2 M 2.3,b5c43226,Advanced Math,Nonlinear Functions,1,B,253,,-
+SAT2,Math,2,4,SAT2 M 2.4,2cdefcb1,Problem-Solving,"Ratios, Rates, Proportions, and Units",1,C,254,,-
+SAT2,Math,2,5,SAT2 M 2.5,a0cacec1,Geometry and Trigonometry,Circles,2,192,255,,-
+SAT2,Math,2,6,SAT2 M 2.6,a4d6fbec,Algebra,Linear Functions,1,50,256,,-
+SAT2,Math,2,7,SAT2 M 2.7,a396ed75,Algebra,Linear Functions,1,D,257,,-
+SAT2,Math,2,8,SAT2 M 2.8,8339793c,Algebra,Linear Equations in One Variable,1,10,258,,-
+SAT2,Math,2,9,SAT2 M 2.9,7cb3a8ee,Advanced Math,Nonlinear Equations and Systems,1,"15, -5",259,,-
+SAT2,Math,2,10,SAT2 M 2.10,4de87c9a,Algebra,Linear Equations in One Variable,1,D,260,,-
+SAT2,Math,2,11,SAT2 M 2.11,beb86a0c,Advanced Math,Equivalent Expressions,1,A,261,,-
+SAT2,Math,2,12,SAT2 M 2.12,fd65f47f,Advanced Math,Equivalent Expressions,1,D,262,,-
+SAT2,Math,2,13,SAT2 M 2.13,317e80f9,Algebra,Systems of Linear Equations,1,A,263,,-
+SAT2,Math,2,14,SAT2 M 2.14,a9039591,Algebra,Linear Functions,1,A,264,,-
+SAT2,Math,2,15,SAT2 M 2.15,c9f8d1e9,Geometry and Trigonometry,Right Triangles and Trigonometry,1,D,265,,-
+SAT2,Math,2,16,SAT2 M 2.16,575f1e12,Geometry and Trigonometry,Area and Volume,1,986,266,,-
+SAT2,Math,2,17,SAT2 M 2.17,c307283c,Algebra,Linear Equations in Two Variables,2,C,267,,-
+SAT2,Math,2,18,SAT2 M 2.18,0aaef7aa,Advanced Math,Nonlinear Functions,2,A,268,,-
+SAT2,Math,2,19,SAT2 M 2.19,e470e19d,Algebra,Linear Functions,2,D,269,,-
+SAT2,Math,2,20,SAT2 M 2.20,f02b4509,Algebra,Linear Inequalities,2,A,270,,-
+SAT2,Math,2,21,SAT2 M 2.21,9f6f96ff,Algebra,Systems of Linear Equations,2,D,271,,-
+SAT2,Math,2,22,SAT2 M 2.22,901c3215,Geometry and Trigonometry,"Lines, Angles, and Triangles",3,C,272,,-
+SAT2,Math,3,1,SAT2 M 3.1,ffb371f5,Algebra,Systems of Linear Equations,1,B,273,,-
+SAT2,Math,3,2,SAT2 M 3.2,70482e20,Advanced Math,Equivalent Expressions,1,B,274,,-
+SAT2,Math,3,3,SAT2 M 3.3,5a7ab8e8,Algebra,Linear Equations in One Variable,2,C,275,,-
+SAT2,Math,3,4,SAT2 M 3.4,686b7cad,Algebra,Systems of Linear Equations,2,A,276,,-
+SAT2,Math,3,5,SAT2 M 3.5,3e9eaffc,Algebra,Linear Functions,2,C,277,,-
+SAT2,Math,3,6,SAT2 M 3.6,a0cacec1,Geometry and Trigonometry,Circles,2,192,278,,-
+SAT2,Math,3,7,SAT2 M 3.7,541bef2f,Algebra,Linear Inequalities,3,D,279,,-
+SAT2,Math,3,8,SAT2 M 3.8,f811d345,Geometry and Trigonometry,Right Triangles and Trigonometry,3,113,280,,-
+SAT2,Math,3,9,SAT2 M 3.9,c178d4da,Problem-Solving,One-variable data,3,A,281,,-
+SAT2,Math,3,10,SAT2 M 3.10,3b225698,Geometry and Trigonometry,"Lines, Angles, and Triangles",3,C,282,,-
+SAT2,Math,3,11,SAT2 M 3.11,cc7ffe02,Algebra,Linear Equations in Two Variables,3,C,283,,-
+SAT2,Math,3,12,SAT2 M 3.12,158591f0,Advanced Math,Nonlinear Equations and Systems,3,29/3,284,,-
+SAT2,Math,3,13,SAT2 M 3.13,f2d60b99,Advanced Math,Nonlinear Functions,3,A,285,,-
+SAT2,Math,3,14,SAT2 M 3.14,b3abf40f,Algebra,Linear Functions,3,A,286,,-
+SAT2,Math,3,15,SAT2 M 3.15,3008cfc3,Algebra,Linear Equations in Two Variables,3,33,287,,-
+SAT2,Math,3,16,SAT2 M 3.16,42f8e4b4,Advanced Math,Equivalent Expressions,3,8,288,,-
+SAT2,Math,3,17,SAT2 M 3.17,e470e19d,Algebra,Linear Functions,2,D,289,,-
+SAT2,Math,3,18,SAT2 M 3.18,d6456c7a,Problem-Solving,"Ratios, Rates, Proportions, and Units",3,B,290,,-
+SAT2,Math,3,19,SAT2 M 3.19,a309803e,Algebra,Linear Functions,3,A,291,,-
+SAT2,Math,3,20,SAT2 M 3.20,45a534d0,Algebra,Systems of Linear Equations,3,-34,292,,-
+SAT2,Math,3,21,SAT2 M 3.21,104bff62,Advanced Math,Nonlinear Equations and Systems,3,D,293,,-
+SAT2,Math,3,22,SAT2 M 3.22,4dd4efcf,Advanced Math,Nonlinear Functions,3,D,294,,-
+SAT3,Reading & Writing,1,1,SAT3 RW 1.1,84b5125b,Craft and Structure,Words in Context,1,B,295,,-
+SAT3,Reading & Writing,1,2,SAT3 RW 1.2,e37b9e34,Craft and Structure,Words in Context,2,D,296,,-
+SAT3,Reading & Writing,1,3,SAT3 RW 1.3,8634bf4a,Craft and Structure,Words in Context,2,C,297,,-
+SAT3,Reading & Writing,1,4,SAT3 RW 1.4,4974b053,Craft and Structure,Words in Context,2,B,298,,-
+SAT3,Reading & Writing,1,5,SAT3 RW 1.5,84ece3f6,Craft and Structure,Words in Context,2,A,299,,-
+SAT3,Reading & Writing,1,6,SAT3 RW 1.6,14b7dced,Craft and Structure,"Text, Structure, and Purpose",2,D,300,,-
+SAT3,Reading & Writing,1,7,SAT3 RW 1.7,92c2564d,Information and Ideas,Central Ideas and Details,2,A,301,,-
+SAT3,Reading & Writing,1,8,SAT3 RW 1.8,a66f9b8d,Information and Ideas,Central Ideas and Details,2,A,302,,-
+SAT3,Reading & Writing,1,9,SAT3 RW 1.9,b62cb782,Information and Ideas,Central Ideas and Details,2,A,303,,-
+SAT3,Reading & Writing,1,10,SAT3 RW 1.10,c83e0b43,Information and Ideas,Command of Evidence,3,D,304,,-
+SAT3,Reading & Writing,1,11,SAT3 RW 1.11,5105ca38,Information and Ideas,Inferences,2,A,305,,-
+SAT3,Reading & Writing,1,12,SAT3 RW 1.12,3ae2638c,Information and Ideas,Inferences,2,B,306,,-
+SAT3,Reading & Writing,1,13,SAT3 RW 1.13,a68fd3e7,Information and Ideas,Inferences,3,A,307,,-
+SAT3,Reading & Writing,1,14,SAT3 RW 1.14,3ed5ebb4,Standard English Conventions,Boundaries,2,C,308,,-
+SAT3,Reading & Writing,1,15,SAT3 RW 1.15,59209b6d,Standard English Conventions,"Form, Structure, and Sense",2,A,309,,-
+SAT3,Reading & Writing,1,16,SAT3 RW 1.16,5cc85f01,Standard English Conventions,Boundaries,2,D,310,,-
+SAT3,Reading & Writing,1,17,SAT3 RW 1.17,6e193b19,Standard English Conventions,"Form, Structure, and Sense",2,D,311,,-
+SAT3,Reading & Writing,1,18,SAT3 RW 1.18,ac5536c1,Standard English Conventions,Boundaries,2,D,312,,-
+SAT3,Reading & Writing,1,19,SAT3 RW 1.19,dd6a0326,Standard English Conventions,"Form, Structure, and Sense",2,C,313,,-
+SAT3,Reading & Writing,1,20,SAT3 RW 1.20,01a32c84,Standard English Conventions,Boundaries,2,C,314,,-
+SAT3,Reading & Writing,1,21,SAT3 RW 1.21,0d3ebdce,Expression of Ideas,Transitions,1,B,315,,-
+SAT3,Reading & Writing,1,22,SAT3 RW 1.22,82ec9628,Expression of Ideas,Transitions,2,D,316,,-
+SAT3,Reading & Writing,1,23,SAT3 RW 1.23,a6155e60,Expression of Ideas,Transitions,1,C,317,,-
+SAT3,Reading & Writing,1,24,SAT3 RW 1.24,24014c3f,Expression of Ideas,Rhetorical Synthesis,2,A,318,,-
+SAT3,Reading & Writing,1,25,SAT3 RW 1.25,5888712f,Expression of Ideas,Rhetorical Synthesis,2,D,319,,-
+SAT3,Reading & Writing,1,26,SAT3 RW 1.26,5d3177aa,Expression of Ideas,Rhetorical Synthesis,2,D,320,,-
+SAT3,Reading & Writing,1,27,SAT3 RW 1.27,94cb8720,Expression of Ideas,Rhetorical Synthesis,2,C,321,,-
+SAT3,Reading & Writing,2,1,SAT3 RW 2.1,49bbe4d7,Craft and Structure,Words in Context,1,B,322,,-
+SAT3,Reading & Writing,2,2,SAT3 RW 2.2,7d84fe2b,Craft and Structure,Words in Context,1,B,323,,-
+SAT3,Reading & Writing,2,3,SAT3 RW 2.3,a4ca92fd,Craft and Structure,Words in Context,1,C,324,,-
+SAT3,Reading & Writing,2,4,SAT3 RW 2.4,5effa190,Craft and Structure,Words in Context,1,B,325,,-
+SAT3,Reading & Writing,2,5,SAT3 RW 2.5,9c35759f,Craft and Structure,Words in Context,2,D,326,,-
+SAT3,Reading & Writing,2,6,SAT3 RW 2.6,e41dfaab,Craft and Structure,Words in Context,1,A,327,,-
+SAT3,Reading & Writing,2,7,SAT3 RW 2.7,9c759a09,Craft and Structure,"Text, Structure, and Purpose",1,D,328,,-
+SAT3,Reading & Writing,2,8,SAT3 RW 2.8,9421ed62,Craft and Structure,"Text, Structure, and Purpose",1,A,329,,-
+SAT3,Reading & Writing,2,9,SAT3 RW 2.9,f653b273,Craft and Structure,Cross-Text Connections,2,A,330,,-
+SAT3,Reading & Writing,2,10,SAT3 RW 2.10,b7f79059,Information and Ideas,Central Ideas and Details,2,C,331,,-
+SAT3,Reading & Writing,2,11,SAT3 RW 2.11,0b96fa93,Information and Ideas,Command of Evidence,1,C,332,,-
+SAT3,Reading & Writing,2,12,SAT3 RW 2.12,94ca8ebd,Information and Ideas,Command of Evidence,2,C,333,,-
+SAT3,Reading & Writing,2,13,SAT3 RW 2.13,39de2206,Information and Ideas,Command of Evidence,2,B,334,,-
+SAT3,Reading & Writing,2,14,SAT3 RW 2.14,cf7491c1,Information and Ideas,Command of Evidence,2,D,335,,-
+SAT3,Reading & Writing,2,15,SAT3 RW 2.15,5d453dcc,Information and Ideas,Command of Evidence,2,A,336,,-
+SAT3,Reading & Writing,2,16,SAT3 RW 2.16,df91532e,Information and Ideas,Command of Evidence,3,D,337,,-
+SAT3,Reading & Writing,2,17,SAT3 RW 2.17,66bef967,Information and Ideas,Central Ideas and Details,2,A,338,,-
+SAT3,Reading & Writing,2,18,SAT3 RW 2.18,975eda7c,Standard English Conventions,"Form, Structure, and Sense",1,B,339,,-
+SAT3,Reading & Writing,2,19,SAT3 RW 2.19,9902d2de,Standard English Conventions,Boundaries,1,B,340,,-
+SAT3,Reading & Writing,2,20,SAT3 RW 2.20,29c9be28,Standard English Conventions,"Form, Structure, and Sense",1,A,341,,-
+SAT3,Reading & Writing,2,21,SAT3 RW 2.21,56770dda,Standard English Conventions,"Form, Structure, and Sense",1,D,342,,-
+SAT3,Reading & Writing,2,22,SAT3 RW 2.22,cdbbbf94,Standard English Conventions,Boundaries,2,D,343,,-
+SAT3,Reading & Writing,2,23,SAT3 RW 2.23,3a35ddd1,Standard English Conventions,"Form, Structure, and Sense",1,D,344,,-
+SAT3,Reading & Writing,2,24,SAT3 RW 2.24,dd087f31,Expression of Ideas,Transitions,1,A,345,,-
+SAT3,Reading & Writing,2,25,SAT3 RW 2.25,fd24f48f,Expression of Ideas,Transitions,2,C,346,,-
+SAT3,Reading & Writing,2,26,SAT3 RW 2.26,99183985,Expression of Ideas,Rhetorical Synthesis,2,B,347,,-
+SAT3,Reading & Writing,2,27,SAT3 RW 2.27,58281fc4,Expression of Ideas,Rhetorical Synthesis,2,D,348,,-
+SAT3,Reading & Writing,3,1,SAT3 RW 3.1,1fbf276a,Craft and Structure,Words in Context,2,D,349,,-
+SAT3,Reading & Writing,3,2,SAT3 RW 3.2,dba9eaf8,Craft and Structure,Words in Context,3,D,350,,-
+SAT3,Reading & Writing,3,3,SAT3 RW 3.3,4fa7e50e,Craft and Structure,Words in Context,3,C,351,,-
+SAT3,Reading & Writing,3,4,SAT3 RW 3.4,93665100,Craft and Structure,Words in Context,3,A,352,,-
+SAT3,Reading & Writing,3,5,SAT3 RW 3.5,e41dfaab,Craft and Structure,Words in Context,1,A,353,,-
+SAT3,Reading & Writing,3,6,SAT3 RW 3.6,0a04cac5,Craft and Structure,"Text, Structure, and Purpose",3,A,354,,-
+SAT3,Reading & Writing,3,7,SAT3 RW 3.7,5336f2e4,Craft and Structure,"Text, Structure, and Purpose",3,D,355,,-
+SAT3,Reading & Writing,3,8,SAT3 RW 3.8,39857700,Craft and Structure,"Text, Structure, and Purpose",3,D,356,,-
+SAT3,Reading & Writing,3,9,SAT3 RW 3.9,6977d22b,Craft and Structure,Cross-Text Connections,3,A,357,,-
+SAT3,Reading & Writing,3,10,SAT3 RW 3.10,6a6bbac3,Information and Ideas,Command of Evidence,3,A,358,,-
+SAT3,Reading & Writing,3,11,SAT3 RW 3.11,5d122d45,Information and Ideas,Command of Evidence,3,A,359,,-
+SAT3,Reading & Writing,3,12,SAT3 RW 3.12,5b74feb9,Information and Ideas,Command of Evidence,3,C,360,,-
+SAT3,Reading & Writing,3,13,SAT3 RW 3.13,02848335,Information and Ideas,Command of Evidence,3,B,361,,-
+SAT3,Reading & Writing,3,14,SAT3 RW 3.14,825dc766,Information and Ideas,Command of Evidence,3,C,362,,-
+SAT3,Reading & Writing,3,15,SAT3 RW 3.15,9452092c,Information and Ideas,Command of Evidence,3,A,363,,-
+SAT3,Reading & Writing,3,16,SAT3 RW 3.16,66bef967,Information and Ideas,Central Ideas and Details,2,A,364,,-
+SAT3,Reading & Writing,3,17,SAT3 RW 3.17,1b9b29f1,Information and Ideas,Inferences,3,C,365,,-
+SAT3,Reading & Writing,3,18,SAT3 RW 3.18,432b1ede,Standard English Conventions,Boundaries,2,C,366,,-
+SAT3,Reading & Writing,3,19,SAT3 RW 3.19,1ee4485c,Standard English Conventions,Boundaries,3,C,367,,-
+SAT3,Reading & Writing,3,20,SAT3 RW 3.20,e76e74e8,Standard English Conventions,Boundaries,3,A,368,,-
+SAT3,Reading & Writing,3,21,SAT3 RW 3.21,512f0ac9,Standard English Conventions,"Form, Structure, and Sense",3,A,369,,-
+SAT3,Reading & Writing,3,22,SAT3 RW 3.22,f30a478e,Standard English Conventions,Boundaries,3,B,370,,-
+SAT3,Reading & Writing,3,23,SAT3 RW 3.23,f114cbf0,Expression of Ideas,Transitions,2,B,371,,-
+SAT3,Reading & Writing,3,24,SAT3 RW 3.24,2b89bfe5,Expression of Ideas,Rhetorical Synthesis,2,A,372,,-
+SAT3,Reading & Writing,3,25,SAT3 RW 3.25,8fe4f4ab,Expression of Ideas,Rhetorical Synthesis,3,D,373,,-
+SAT3,Reading & Writing,3,26,SAT3 RW 3.26,8d1ddd1b,Expression of Ideas,Rhetorical Synthesis,3,B,374,,-
+SAT3,Reading & Writing,3,27,SAT3 RW 3.27,9551ef8b,Expression of Ideas,Rhetorical Synthesis,3,B,375,,-
+SAT3,Math,1,1,SAT3 M 1.1,70d9516e,Algebra,Linear Functions,1,C,376,,-
+SAT3,Math,1,2,SAT3 M 1.2,10c448d6,Algebra,Linear Equations in Two Variables,1,D,377,,-
+SAT3,Math,1,3,SAT3 M 1.3,2f0a43b2,Algebra,Linear Equations in One Variable,1,0.2,378,,-
+SAT3,Math,1,4,SAT3 M 1.4,0bb39de4,Geometry and Trigonometry,"Lines, Angles, and Triangles",1,B,379,,-
+SAT3,Math,1,5,SAT3 M 1.5,f5c3e3b8,Advanced Math,Equivalent Expressions,1,B,380,,-
+SAT3,Math,1,6,SAT3 M 1.6,d3b9c8d8,Problem-Solving,One-variable data,3,C,381,,-
+SAT3,Math,1,7,SAT3 M 1.7,84e5e36c,Advanced Math,Nonlinear Equations and Systems,1,B,382,,-
+SAT3,Math,1,8,SAT3 M 1.8,1e562f24,Problem-Solving,Sample Statistics and Margin of Error,2,A,383,,-
+SAT3,Math,1,9,SAT3 M 1.9,6a87902f,Algebra,Systems of Linear Equations,2,A,384,,-
+SAT3,Math,1,10,SAT3 M 1.10,a775af14,Algebra,Linear Functions,2,C,385,,-
+SAT3,Math,1,11,SAT3 M 1.11,3726e079,Problem-Solving,"Ratios, Rates, Proportions, and Units",2,24,386,,-
+SAT3,Math,1,12,SAT3 M 1.12,56dc8045,Algebra,Linear Functions,2,D,387,,-
+SAT3,Math,1,13,SAT3 M 1.13,58171b5e,Problem-Solving,Two-variable data,2,C,388,,-
+SAT3,Math,1,14,SAT3 M 1.14,adb0c96c,Algebra,Systems of Linear Equations,3,80,389,,-
+SAT3,Math,1,15,SAT3 M 1.15,ee857afb,Advanced Math,Nonlinear Functions,3,7,390,,-
+SAT3,Math,1,16,SAT3 M 1.16,548a4929,Algebra,Linear Functions,2,A,391,,-
+SAT3,Math,1,17,SAT3 M 1.17,e5c57163,Geometry and Trigonometry,Area and Volume,3,27556,392,,-
+SAT3,Math,1,18,SAT3 M 1.18,f46139df,Problem-Solving,Two-variable data,2,C,393,,-
+SAT3,Math,1,19,SAT3 M 1.19,f1c1e971,Geometry and Trigonometry,Circles,2,C,394,,-
+SAT3,Math,1,20,SAT3 M 1.20,752055d1,Advanced Math,Nonlinear Functions,2,B,395,,-
+SAT3,Math,1,21,SAT3 M 1.21,d0a53ef5,Advanced Math,Nonlinear Equations and Systems,3,-3,396,,-
+SAT3,Math,1,22,SAT3 M 1.22,fbb96bb1,Advanced Math,Nonlinear Equations and Systems,3,C,397,,-
+SAT3,Math,2,1,SAT3 M 2.1,29c177e6,Problem-Solving,Percentages,1,B,398,,-
+SAT3,Math,2,2,SAT3 M 2.2,93779b53,Problem-Solving,One-variable data,1,B,399,,-
+SAT3,Math,2,3,SAT3 M 2.3,349a5bc1,Algebra,Linear Equations in One Variable,1,40,400,,-
+SAT3,Math,2,4,SAT3 M 2.4,86636d8f,Problem-Solving,"Ratios, Rates, Proportions, and Units",1,9,401,,-
+SAT3,Math,2,5,SAT3 M 2.5,0d391910,Algebra,Linear Functions,1,2,402,,-
+SAT3,Math,2,6,SAT3 M 2.6,3ea87153,Advanced Math,Nonlinear Functions,1,A,403,,-
+SAT3,Math,2,7,SAT3 M 2.7,f547a8b1,Advanced Math,Nonlinear Functions,1,D,404,,-
+SAT3,Math,2,8,SAT3 M 2.8,b8cbe394,Algebra,Linear Functions,1,C,405,,-
+SAT3,Math,2,9,SAT3 M 2.9,433184f1,Advanced Math,Equivalent Expressions,3,D,406,,-
+SAT3,Math,2,10,SAT3 M 2.10,4acd05cd,Algebra,Linear Equations in Two Variables,1,D,407,,-
+SAT3,Math,2,11,SAT3 M 2.11,cf0d3050,Geometry and Trigonometry,"Lines, Angles, and Triangles",1,70,408,,-
+SAT3,Math,2,12,SAT3 M 2.12,02b02213,Geometry and Trigonometry,Area and Volume,1,D,409,,-
+SAT3,Math,2,13,SAT3 M 2.13,b8c4a1cd,Advanced Math,Nonlinear Equations and Systems,1,D,410,,-
+SAT3,Math,2,14,SAT3 M 2.14,cfe67646,Algebra,Linear Inequalities,1,A,411,,-
+SAT3,Math,2,15,SAT3 M 2.15,5f3ee607,Problem-Solving,Two-variable data,1,B,412,,-
+SAT3,Math,2,16,SAT3 M 2.16,d8ace155,Advanced Math,Nonlinear Functions,2,A,413,,-
+SAT3,Math,2,17,SAT3 M 2.17,3a9d60b2,Advanced Math,Nonlinear Equations and Systems,3,9,414,,-
+SAT3,Math,2,18,SAT3 M 2.18,b4a6ed81,Advanced Math,Equivalent Expressions,2,6,415,,-
+SAT3,Math,2,19,SAT3 M 2.19,4993b828,Advanced Math,Nonlinear Functions,2,D,416,,-
+SAT3,Math,2,20,SAT3 M 2.20,48fb34c8,Algebra,Linear Inequalities,3,D,417,,-
+SAT3,Math,2,21,SAT3 M 2.21,cd358b89,Advanced Math,Nonlinear Functions,3,B,418,,-
+SAT3,Math,2,22,SAT3 M 2.22,ae041e52,Geometry and Trigonometry,Right Triangles and Trigonometry,3,A,419,,-
+SAT3,Math,3,1,SAT3 M 3.1,83f2c3bf,Algebra,Linear Equations in Two Variables,1,A,420,,-
+SAT3,Math,3,2,SAT3 M 3.2,0d3f51dc,Geometry and Trigonometry,"Lines, Angles, and Triangles",1,D,421,,-
+SAT3,Math,3,3,SAT3 M 3.3,e9fb7774,Problem-Solving,Percentages,1,A,422,,-
+SAT3,Math,3,4,SAT3 M 3.4,0b332f00,Algebra,Linear Functions,1,9,423,,-
+SAT3,Math,3,5,SAT3 M 3.5,3c600337,Advanced Math,Nonlinear Functions,2,D,424,,-
+SAT3,Math,3,6,SAT3 M 3.6,33e29881,Geometry and Trigonometry,Right Triangles and Trigonometry,2,B,425,,-
+SAT3,Math,3,7,SAT3 M 3.7,8490cc45,Advanced Math,Nonlinear Functions,3,A,426,,-
+SAT3,Math,3,8,SAT3 M 3.8,433184f1,Advanced Math,Equivalent Expressions,3,D,427,,-
+SAT3,Math,3,9,SAT3 M 3.9,d135f4bf,Advanced Math,Nonlinear Functions,3,76,428,,-
+SAT3,Math,3,10,SAT3 M 3.10,ba8ca563,Geometry and Trigonometry,Area and Volume,3,36504,429,,-
+SAT3,Math,3,11,SAT3 M 3.11,1853bb35,Advanced Math,Nonlinear Functions,3,C,430,,-
+SAT3,Math,3,12,SAT3 M 3.12,d8539e09,Algebra,Linear Inequalities,3,C,431,,-
+SAT3,Math,3,13,SAT3 M 3.13,c3b116d7,Advanced Math,Equivalent Expressions,3,B,432,,-
+SAT3,Math,3,14,SAT3 M 3.14,14360f84,Algebra,Systems of Linear Equations,3,D,433,,-
+SAT3,Math,3,15,SAT3 M 3.15,3a9d60b2,Advanced Math,Nonlinear Equations and Systems,3,9,434,,-
+SAT3,Math,3,16,SAT3 M 3.16,ee7b1de1,Algebra,Linear Inequalities,3,182,435,,-
+SAT3,Math,3,17,SAT3 M 3.17,b7c74b73,Advanced Math,Nonlinear Functions,3,C,436,,-
+SAT3,Math,3,18,SAT3 M 3.18,0e61101e,Advanced Math,Nonlinear Functions,3,B,437,,-
+SAT3,Math,3,19,SAT3 M 3.19,ba0edc30,Advanced Math,Nonlinear Equations and Systems,3,B,438,,-
+SAT3,Math,3,20,SAT3 M 3.20,03ff48d2,Advanced Math,Nonlinear Equations and Systems,3,50,439,,-
+SAT3,Math,3,21,SAT3 M 3.21,8c5e6702,Algebra,Linear Functions,3,A,440,,-
+SAT3,Math,3,22,SAT3 M 3.22,f8a322d9,Problem-Solving,One-variable data,3,B,441,,-
+SAT4,Reading & Writing,1,1,SAT4 RW 1.1,479c7e82,Craft and Structure,Words in Context,1,B,442,,-
+SAT4,Reading & Writing,1,2,SAT4 RW 1.2,c843d63c,Craft and Structure,Words in Context,2,B,443,,-
+SAT4,Reading & Writing,1,3,SAT4 RW 1.3,e56b66e5,Craft and Structure,Words in Context,2,A,444,,-
+SAT4,Reading & Writing,1,4,SAT4 RW 1.4,d7dccee7,Craft and Structure,Words in Context,2,B,445,,-
+SAT4,Reading & Writing,1,5,SAT4 RW 1.5,e35d481c,Craft and Structure,Words in Context,3,A,446,,-
+SAT4,Reading & Writing,1,6,SAT4 RW 1.6,b4c6cff6,Craft and Structure,Words in Context,2,D,447,,-
+SAT4,Reading & Writing,1,7,SAT4 RW 1.7,78b265b2,Information and Ideas,Central Ideas and Details,1,A,448,,-
+SAT4,Reading & Writing,1,8,SAT4 RW 1.8,b7d51f84,Information and Ideas,Central Ideas and Details,2,A,449,,-
+SAT4,Reading & Writing,1,9,SAT4 RW 1.9,7ffae38a,Information and Ideas,Central Ideas and Details,2,D,450,,-
+SAT4,Reading & Writing,1,10,SAT4 RW 1.10,783d1388,Information and Ideas,Command of Evidence,3,B,451,,-
+SAT4,Reading & Writing,1,11,SAT4 RW 1.11,403fb4e4,Information and Ideas,Command of Evidence,3,C,452,,-
+SAT4,Reading & Writing,1,12,SAT4 RW 1.12,7c1e5880,Information and Ideas,Inferences,2,B,453,,-
+SAT4,Reading & Writing,1,13,SAT4 RW 1.13,123bd312,Information and Ideas,Inferences,2,B,454,,-
+SAT4,Reading & Writing,1,14,SAT4 RW 1.14,d073983d,Standard English Conventions,"Form, Structure, and Sense",2,D,455,,-
+SAT4,Reading & Writing,1,15,SAT4 RW 1.15,267a13e2,Standard English Conventions,Boundaries,2,D,456,,-
+SAT4,Reading & Writing,1,16,SAT4 RW 1.16,dd428136,Standard English Conventions,"Form, Structure, and Sense",2,B,457,,-
+SAT4,Reading & Writing,1,17,SAT4 RW 1.17,89fbc3eb,Standard English Conventions,Boundaries,2,C,458,,-
+SAT4,Reading & Writing,1,18,SAT4 RW 1.18,75f49353,Standard English Conventions,"Form, Structure, and Sense",2,A,459,,-
+SAT4,Reading & Writing,1,19,SAT4 RW 1.19,2b512e65,Standard English Conventions,Boundaries,2,D,460,,-
+SAT4,Reading & Writing,1,20,SAT4 RW 1.20,3daf126e,Standard English Conventions,"Form, Structure, and Sense",3,D,461,,-
+SAT4,Reading & Writing,1,21,SAT4 RW 1.21,ec3d7605,Expression of Ideas,Transitions,2,D,462,,-
+SAT4,Reading & Writing,1,22,SAT4 RW 1.22,17ec916d,Expression of Ideas,Rhetorical Synthesis,2,C,463,,-
+SAT4,Reading & Writing,1,23,SAT4 RW 1.23,e2d97f10,Expression of Ideas,Rhetorical Synthesis,2,D,464,,-
+SAT4,Reading & Writing,1,24,SAT4 RW 1.24,86b78078,Expression of Ideas,Rhetorical Synthesis,2,A,465,,-
+SAT4,Reading & Writing,1,25,SAT4 RW 1.25,4f9ee1dc,Expression of Ideas,Rhetorical Synthesis,2,C,466,,-
+SAT4,Reading & Writing,1,26,SAT4 RW 1.26,d6dec50e,Expression of Ideas,Rhetorical Synthesis,2,D,467,,-
+SAT4,Reading & Writing,1,27,SAT4 RW 1.27,9e2d4ef7,Expression of Ideas,Rhetorical Synthesis,2,C,468,,-
+SAT4,Reading & Writing,2,1,SAT4 RW 2.1,3118ca93,Craft and Structure,Words in Context,1,D,469,,-
+SAT4,Reading & Writing,2,2,SAT4 RW 2.2,e1d5d5df,Craft and Structure,Words in Context,1,D,470,,-
+SAT4,Reading & Writing,2,3,SAT4 RW 2.3,84a7fbca,Craft and Structure,Words in Context,1,A,471,,-
+SAT4,Reading & Writing,2,4,SAT4 RW 2.4,f7d58b53,Craft and Structure,Words in Context,1,A,472,,-
+SAT4,Reading & Writing,2,5,SAT4 RW 2.5,94eb800d,Craft and Structure,Words in Context,2,B,473,,-
+SAT4,Reading & Writing,2,6,SAT4 RW 2.6,79fe7550,Craft and Structure,Words in Context,3,C,474,,-
+SAT4,Reading & Writing,2,7,SAT4 RW 2.7,2aaee77f,Craft and Structure,"Text, Structure, and Purpose",1,C,475,,-
+SAT4,Reading & Writing,2,8,SAT4 RW 2.8,aa7fc89b,Craft and Structure,"Text, Structure, and Purpose",2,A,476,,-
+SAT4,Reading & Writing,2,9,SAT4 RW 2.9,ab56a107,Craft and Structure,Cross-Text Connections,2,C,477,,-
+SAT4,Reading & Writing,2,10,SAT4 RW 2.10,8af28416,Information and Ideas,Command of Evidence,1,A,478,,-
+SAT4,Reading & Writing,2,11,SAT4 RW 2.11,194dd448,Information and Ideas,Command of Evidence,2,C,479,,-
+SAT4,Reading & Writing,2,12,SAT4 RW 2.12,1f3be847,Information and Ideas,Command of Evidence,2,A,480,,-
+SAT4,Reading & Writing,2,13,SAT4 RW 2.13,df9c5a1d,Information and Ideas,Command of Evidence,3,D,481,,-
+SAT4,Reading & Writing,2,14,SAT4 RW 2.14,20583752,Information and Ideas,Command of Evidence,3,A,482,,-
+SAT4,Reading & Writing,2,15,SAT4 RW 2.15,bcbcc43f,Information and Ideas,Inferences,2,D,483,,-
+SAT4,Reading & Writing,2,16,SAT4 RW 2.16,3cc2eacc,Information and Ideas,Inferences,2,C,484,,-
+SAT4,Reading & Writing,2,17,SAT4 RW 2.17,983d33fa,Standard English Conventions,"Form, Structure, and Sense",1,B,485,,-
+SAT4,Reading & Writing,2,18,SAT4 RW 2.18,96953201,Standard English Conventions,Boundaries,1,A,486,,-
+SAT4,Reading & Writing,2,19,SAT4 RW 2.19,6e5bf3a8,Standard English Conventions,"Form, Structure, and Sense",1,A,487,,-
+SAT4,Reading & Writing,2,20,SAT4 RW 2.20,1ee7b429,Standard English Conventions,"Form, Structure, and Sense",2,D,488,,-
+SAT4,Reading & Writing,2,21,SAT4 RW 2.21,775f3eb9,Standard English Conventions,"Form, Structure, and Sense",1,C,489,,-
+SAT4,Reading & Writing,2,22,SAT4 RW 2.22,ce81d0b7,Standard English Conventions,Boundaries,1,D,490,,-
+SAT4,Reading & Writing,2,23,SAT4 RW 2.23,c5d39bc7,Standard English Conventions,"Form, Structure, and Sense",1,B,491,,-
+SAT4,Reading & Writing,2,24,SAT4 RW 2.24,a773f069,Expression of Ideas,Transitions,1,D,492,,-
+SAT4,Reading & Writing,2,25,SAT4 RW 2.25,92fe0ed7,Expression of Ideas,Transitions,1,D,493,,-
+SAT4,Reading & Writing,2,26,SAT4 RW 2.26,1a8126aa,Expression of Ideas,Transitions,2,A,494,,-
+SAT4,Reading & Writing,2,27,SAT4 RW 2.27,13f36b03,Expression of Ideas,Rhetorical Synthesis,1,B,495,,-
+SAT4,Reading & Writing,3,1,SAT4 RW 3.1,98364791,Craft and Structure,Words in Context,3,B,496,,-
+SAT4,Reading & Writing,3,2,SAT4 RW 3.2,b411eb09,Craft and Structure,Words in Context,3,B,497,,-
+SAT4,Reading & Writing,3,3,SAT4 RW 3.3,7bc05fa2,Craft and Structure,Words in Context,3,C,498,,-
+SAT4,Reading & Writing,3,4,SAT4 RW 3.4,79fe7550,Craft and Structure,Words in Context,3,C,499,,-
+SAT4,Reading & Writing,3,5,SAT4 RW 3.5,570970cd,Craft and Structure,"Text, Structure, and Purpose",3,D,500,,-
+SAT4,Reading & Writing,3,6,SAT4 RW 3.6,03c9f327,Craft and Structure,"Text, Structure, and Purpose",3,A,501,,-
+SAT4,Reading & Writing,3,7,SAT4 RW 3.7,8963273a,Craft and Structure,"Text, Structure, and Purpose",2,A,502,,-
+SAT4,Reading & Writing,3,8,SAT4 RW 3.8,3e6ad72d,Craft and Structure,"Text, Structure, and Purpose",3,C,503,,-
+SAT4,Reading & Writing,3,9,SAT4 RW 3.9,5e101c70,Craft and Structure,Cross-Text Connections,3,B,504,,-
+SAT4,Reading & Writing,3,10,SAT4 RW 3.10,5cf5c0d3,Information and Ideas,Command of Evidence,3,C,505,,-
+SAT4,Reading & Writing,3,11,SAT4 RW 3.11,3d91c973,Information and Ideas,Command of Evidence,3,C,506,,-
+SAT4,Reading & Writing,3,12,SAT4 RW 3.12,645fd11a,Information and Ideas,Command of Evidence,3,D,507,,-
+SAT4,Reading & Writing,3,13,SAT4 RW 3.13,0045c234,Information and Ideas,Command of Evidence,3,C,508,,-
+SAT4,Reading & Writing,3,14,SAT4 RW 3.14,94c54577,Information and Ideas,Command of Evidence,3,B,509,,-
+SAT4,Reading & Writing,3,15,SAT4 RW 3.15,f39507a3,Information and Ideas,Inferences,3,D,510,,-
+SAT4,Reading & Writing,3,16,SAT4 RW 3.16,cf3acc50,Information and Ideas,Inferences,3,A,511,,-
+SAT4,Reading & Writing,3,17,SAT4 RW 3.17,ad046778,Standard English Conventions,Boundaries,2,D,512,,-
+SAT4,Reading & Writing,3,18,SAT4 RW 3.18,1ee7b429,Standard English Conventions,"Form, Structure, and Sense",2,D,513,,-
+SAT4,Reading & Writing,3,19,SAT4 RW 3.19,886dc9f9,Standard English Conventions,Boundaries,3,B,514,,-
+SAT4,Reading & Writing,3,20,SAT4 RW 3.20,329255db,Standard English Conventions,"Form, Structure, and Sense",3,A,515,,-
+SAT4,Reading & Writing,3,21,SAT4 RW 3.21,1b97cce9,Standard English Conventions,Boundaries,3,A,516,,-
+SAT4,Reading & Writing,3,22,SAT4 RW 3.22,0a114526,Standard English Conventions,Boundaries,3,C,517,,-
+SAT4,Reading & Writing,3,23,SAT4 RW 3.23,db24ecc9,Standard English Conventions,Boundaries,3,B,518,,-
+SAT4,Reading & Writing,3,24,SAT4 RW 3.24,af89fa02,Expression of Ideas,Transitions,2,C,519,,-
+SAT4,Reading & Writing,3,25,SAT4 RW 3.25,4d2736f0,Expression of Ideas,Transitions,3,D,520,,-
+SAT4,Reading & Writing,3,26,SAT4 RW 3.26,fc95a352,Expression of Ideas,Transitions,3,A,521,,-
+SAT4,Reading & Writing,3,27,SAT4 RW 3.27,0acc26b2,Expression of Ideas,Rhetorical Synthesis,3,D,522,,-
+SAT4,Math,1,1,SAT4 M 1.1,0d685865,Algebra,Linear Equations in One Variable,1,C,523,,-
+SAT4,Math,1,2,SAT4 M 1.2,55cfaf22,Problem-Solving,One-variable data,1,B,524,,-
+SAT4,Math,1,3,SAT4 M 1.3,d5f349b7,Geometry and Trigonometry,"Lines, Angles, and Triangles",1,B,525,,-
+SAT4,Math,1,4,SAT4 M 1.4,fbb0ea7f,Algebra,Linear Equations in One Variable,1,A,526,,-
+SAT4,Math,1,5,SAT4 M 1.5,9db5b5c1,Algebra,Systems of Linear Equations,1,C,527,,-
+SAT4,Math,1,6,SAT4 M 1.6,686b7244,Algebra,Linear Equations in Two Variables,3,5,528,,-
+SAT4,Math,1,7,SAT4 M 1.7,1f0b582e,Geometry and Trigonometry,Area and Volume,2,D,529,,-
+SAT4,Math,1,8,SAT4 M 1.8,1bc11c4e,Algebra,Linear Functions,2,A,530,,-
+SAT4,Math,1,9,SAT4 M 1.9,da602115,Advanced Math,Nonlinear Equations and Systems,2,28,531,,-
+SAT4,Math,1,10,SAT4 M 1.10,8f65cddc,Advanced Math,Nonlinear Equations and Systems,2,C,532,,-
+SAT4,Math,1,11,SAT4 M 1.11,f7e39fe9,Algebra,Linear Functions,2,11,533,,-
+SAT4,Math,1,12,SAT4 M 1.12,1dd13816,Advanced Math,Equivalent Expressions,2,9,534,,-
+SAT4,Math,1,13,SAT4 M 1.13,f2bbd43d,Algebra,Linear Inequalities,2,A,535,,-
+SAT4,Math,1,14,SAT4 M 1.14,7e5a3640,Advanced Math,Nonlinear Functions,2,D,536,,-
+SAT4,Math,1,15,SAT4 M 1.15,db888cd6,Advanced Math,Nonlinear Functions,2,D,537,,-
+SAT4,Math,1,16,SAT4 M 1.16,4eaf0a3a,Advanced Math,Equivalent Expressions,2,B,538,,-
+SAT4,Math,1,17,SAT4 M 1.17,121dc44f,Problem-Solving,Percentages,2,C,539,,-
+SAT4,Math,1,18,SAT4 M 1.18,b3c7ca1d,Algebra,Systems of Linear Equations,2,C,540,,-
+SAT4,Math,1,19,SAT4 M 1.19,2c6f214f,Advanced Math,Nonlinear Functions,3,D,541,,-
+SAT4,Math,1,20,SAT4 M 1.20,8f0c82e2,Algebra,Linear Inequalities,2,B,542,,-
+SAT4,Math,1,21,SAT4 M 1.21,c9931030,Geometry and Trigonometry,Right Triangles and Trigonometry,3,B,543,,-
+SAT4,Math,1,22,SAT4 M 1.22,cc3e9528,Algebra,Linear Equations in Two Variables,3,59/9,544,,-
+SAT4,Math,2,1,SAT4 M 2.1,b82a943c,Algebra,Linear Equations in One Variable,1,B,545,,-
+SAT4,Math,2,2,SAT4 M 2.2,273b7f37,Problem-Solving,Percentages,1,B,546,,-
+SAT4,Math,2,3,SAT4 M 2.3,3c8fdc40,Problem-Solving,"Ratios, Rates, Proportions, and Units",1,2520,547,,-
+SAT4,Math,2,4,SAT4 M 2.4,820d7a73,Problem-Solving,One-variable data,1,40,548,,-
+SAT4,Math,2,5,SAT4 M 2.5,cc2601cb,Advanced Math,Nonlinear Functions,1,7,549,,-
+SAT4,Math,2,6,SAT4 M 2.6,447fa970,Algebra,Linear Functions,1,30,550,,-
+SAT4,Math,2,7,SAT4 M 2.7,76670c80,Geometry and Trigonometry,Area and Volume,1,180,551,,-
+SAT4,Math,2,8,SAT4 M 2.8,9d0396d4,Algebra,Linear Equations in Two Variables,3,C,552,,-
+SAT4,Math,2,9,SAT4 M 2.9,499cb491,Advanced Math,Equivalent Expressions,1,A,553,,-
+SAT4,Math,2,10,SAT4 M 2.10,de362c2f,Advanced Math,Nonlinear Functions,1,D,554,,-
+SAT4,Math,2,11,SAT4 M 2.11,afa3c48b,Geometry and Trigonometry,"Lines, Angles, and Triangles",1,D,555,,-
+SAT4,Math,2,12,SAT4 M 2.12,eccbf957,Problem-Solving,Probability,1,A,556,,-
+SAT4,Math,2,13,SAT4 M 2.13,d230e963,Problem-Solving,Two-variable data,1,A,557,,-
+SAT4,Math,2,14,SAT4 M 2.14,4626102e,Problem-Solving,One-variable data,3,C,558,,-
+SAT4,Math,2,15,SAT4 M 2.15,768b2425,Algebra,Linear Equations in Two Variables,1,A,559,,-
+SAT4,Math,2,16,SAT4 M 2.16,c8bf5313,Advanced Math,Nonlinear Equations and Systems,1,D,560,,-
+SAT4,Math,2,17,SAT4 M 2.17,ad376f1a,Advanced Math,Nonlinear Functions,1,D,561,,-
+SAT4,Math,2,18,SAT4 M 2.18,2cf7f039,Advanced Math,Nonlinear Functions,1,C,562,,-
+SAT4,Math,2,19,SAT4 M 2.19,9f3cb472,Algebra,Linear Equations in Two Variables,2,D,563,,-
+SAT4,Math,2,20,SAT4 M 2.20,bf4a8b6a,Algebra,Systems of Linear Equations,2,C,564,,-
+SAT4,Math,2,21,SAT4 M 2.21,2cd6b22d,Advanced Math,Nonlinear Equations and Systems,3,D,565,,-
+SAT4,Math,2,22,SAT4 M 2.22,e80d62c6,Geometry and Trigonometry,Circles,3,A,566,,-
+SAT4,Math,3,1,SAT4 M 3.1,affb2315,Problem-Solving,Sample Statistics and Margin of Error,1,A,567,,-
+SAT4,Math,3,2,SAT4 M 3.2,ebf8d2b7,Algebra,Linear Equations in Two Variables,1,B,568,,-
+SAT4,Math,3,3,SAT4 M 3.3,8baf2118,Problem-Solving,Two-variable data,1,B,569,,-
+SAT4,Math,3,4,SAT4 M 3.4,9d0396d4,Algebra,Linear Equations in Two Variables,3,C,570,,-
+SAT4,Math,3,5,SAT4 M 3.5,44076c7d,Advanced Math,Nonlinear Functions,2,D,571,,-
+SAT4,Math,3,6,SAT4 M 3.6,0cadb20e,Algebra,Linear Functions,2,C,572,,-
+SAT4,Math,3,7,SAT4 M 3.7,2adbf1b1,Geometry and Trigonometry,"Lines, Angles, and Triangles",2,C,573,,-
+SAT4,Math,3,8,SAT4 M 3.8,01682aa5,Algebra,Linear Equations in Two Variables,2,C,574,,-
+SAT4,Math,3,9,SAT4 M 3.9,69f6717f,Problem-Solving,"Ratios, Rates, Proportions, and Units",3,A,575,,-
+SAT4,Math,3,10,SAT4 M 3.10,2d1614a1,Advanced Math,Nonlinear Functions,3,C,576,,-
+SAT4,Math,3,11,SAT4 M 3.11,7d5d1b32,Algebra,Linear Equations in One Variable,3,-14/15,577,,-
+SAT4,Math,3,12,SAT4 M 3.12,3d73a58b,Problem-Solving,Percentages,3,4.06,578,,-
+SAT4,Math,3,13,SAT4 M 3.13,ebb717ab,Advanced Math,Nonlinear Equations and Systems,3,289,579,,-
+SAT4,Math,3,14,SAT4 M 3.14,2a59eb45,Problem-Solving,One-variable data,3,44,580,,-
+SAT4,Math,3,15,SAT4 M 3.15,ffdbcad4,Advanced Math,Equivalent Expressions,3,D,581,,-
+SAT4,Math,3,16,SAT4 M 3.16,9cb9beec,Advanced Math,Nonlinear Equations and Systems,3,14.5,582,,-
+SAT4,Math,3,17,SAT4 M 3.17,4626102e,Problem-Solving,One-variable data,3,C,583,,-
+SAT4,Math,3,18,SAT4 M 3.18,4d037075,Advanced Math,Nonlinear Functions,3,C,584,,-
+SAT4,Math,3,19,SAT4 M 3.19,2c05d312,Advanced Math,Nonlinear Equations and Systems,3,A,585,,-
+SAT4,Math,3,20,SAT4 M 3.20,76c73dbf,Geometry and Trigonometry,Circles,3,10,586,,-
+SAT4,Math,3,21,SAT4 M 3.21,f243c383,Geometry and Trigonometry,Area and Volume,3,B,587,,-
+SAT4,Math,3,22,SAT4 M 3.22,92f812bb,Advanced Math,Nonlinear Functions,3,D,588,,-
+SAT5,Reading & Writing,1,1,SAT5 RW 1.1,xyz00001,Craft and Structure,Words in Context,-,A,589,,-
+SAT5,Reading & Writing,1,2,SAT5 RW 1.2,xyz00002,Craft and Structure,Words in Context,-,B,590,,-
+SAT5,Reading & Writing,1,3,SAT5 RW 1.3,xyz00003,Craft and Structure,Words in Context,-,B,591,,-
+SAT5,Reading & Writing,1,4,SAT5 RW 1.4,xyz00004,Craft and Structure,Words in Context,-,B,592,,-
+SAT5,Reading & Writing,1,5,SAT5 RW 1.5,xyz00005,Craft and Structure,"Text, Structure, and Purpose",-,D,593,,-
+SAT5,Reading & Writing,1,6,SAT5 RW 1.6,xyz00006,Craft and Structure,"Text, Structure, and Purpose",-,D,594,,-
+SAT5,Reading & Writing,1,7,SAT5 RW 1.7,xyz00007,Information and Ideas,Central Ideas and Details,-,A,595,,-
+SAT5,Reading & Writing,1,8,SAT5 RW 1.8,xyz00008,Information and Ideas,Central Ideas and Details,-,A,596,,-
+SAT5,Reading & Writing,1,9,SAT5 RW 1.9,xyz00009,Information and Ideas,Central Ideas and Details,-,D,597,,-
+SAT5,Reading & Writing,1,10,SAT5 RW 1.10,xyz00010,Information and Ideas,Command of Evidence,-,D,598,,-
+SAT5,Reading & Writing,1,11,SAT5 RW 1.11,xyz00011,Information and Ideas,Command of Evidence,-,C,599,,-
+SAT5,Reading & Writing,1,12,SAT5 RW 1.12,xyz00012,Information and Ideas,Command of Evidence,-,A,600,,-
+SAT5,Reading & Writing,1,13,SAT5 RW 1.13,xyz00013,Information and Ideas,Inferences,-,D,601,,-
+SAT5,Reading & Writing,1,14,SAT5 RW 1.14,xyz00014,Information and Ideas,Inferences,-,A,602,,-
+SAT5,Reading & Writing,1,15,SAT5 RW 1.15,xyz00015,Standard English Conventions,Boundaries,-,C,603,,-
+SAT5,Reading & Writing,1,16,SAT5 RW 1.16,xyz00016,Standard English Conventions,"Form, Structure, and Sense",-,D,604,,-
+SAT5,Reading & Writing,1,17,SAT5 RW 1.17,xyz00017,Standard English Conventions,Boundaries,-,C,605,,-
+SAT5,Reading & Writing,1,18,SAT5 RW 1.18,xyz00018,Standard English Conventions,Boundaries,-,B,606,,-
+SAT5,Reading & Writing,1,19,SAT5 RW 1.19,xyz00019,Standard English Conventions,"Form, Structure, and Sense",-,A,607,,-
+SAT5,Reading & Writing,1,20,SAT5 RW 1.20,xyz00020,Standard English Conventions,Boundaries,-,C,608,,-
+SAT5,Reading & Writing,1,21,SAT5 RW 1.21,xyz00021,Expression of Ideas,Transitions,-,D,609,,-
+SAT5,Reading & Writing,1,22,SAT5 RW 1.22,xyz00022,Expression of Ideas,Transitions,-,B,610,,-
+SAT5,Reading & Writing,1,23,SAT5 RW 1.23,xyz00023,Expression of Ideas,Transitions,-,D,611,,-
+SAT5,Reading & Writing,1,24,SAT5 RW 1.24,xyz00024,Expression of Ideas,Transitions,-,B,612,,-
+SAT5,Reading & Writing,1,25,SAT5 RW 1.25,xyz00025,Expression of Ideas,Rhetorical Synthesis,-,C,613,,-
+SAT5,Reading & Writing,1,26,SAT5 RW 1.26,xyz00026,Expression of Ideas,Rhetorical Synthesis,-,B,614,,-
+SAT5,Reading & Writing,1,27,SAT5 RW 1.27,xyz00027,Expression of Ideas,Rhetorical Synthesis,-,C,615,,-
+SAT5,Reading & Writing,2,1,SAT5 RW 2.1,xyz00028,Craft and Structure,Words in Context,-,C,616,,-
+SAT5,Reading & Writing,2,2,SAT5 RW 2.2,xyz00029,Craft and Structure,Words in Context,-,B,617,,-
+SAT5,Reading & Writing,2,3,SAT5 RW 2.3,xyz00030,Craft and Structure,Words in Context,-,D,618,,-
+SAT5,Reading & Writing,2,4,SAT5 RW 2.4,xyz00031,Craft and Structure,Words in Context,-,A,619,,-
+SAT5,Reading & Writing,2,5,SAT5 RW 2.5,xyz00032,Craft and Structure,Words in Context,-,D,620,,-
+SAT5,Reading & Writing,2,6,SAT5 RW 2.6,xyz00033,Craft and Structure,"Text, Structure, and Purpose",-,A,621,,-
+SAT5,Reading & Writing,2,7,SAT5 RW 2.7,xyz00034,Craft and Structure,"Text, Structure, and Purpose",-,B,622,,-
+SAT5,Reading & Writing,2,8,SAT5 RW 2.8,xyz00035,Craft and Structure,Cross-Text Connections,-,D,623,,-
+SAT5,Reading & Writing,2,9,SAT5 RW 2.9,xyz00036,Information and Ideas,Command of Evidence,-,C,624,,-
+SAT5,Reading & Writing,2,10,SAT5 RW 2.10,xyz00037,Information and Ideas,Command of Evidence,-,C,625,,-
+SAT5,Reading & Writing,2,11,SAT5 RW 2.11,xyz00038,Information and Ideas,Command of Evidence,-,C,626,,-
+SAT5,Reading & Writing,2,12,SAT5 RW 2.12,xyz00039,Information and Ideas,Command of Evidence,-,D,627,,-
+SAT5,Reading & Writing,2,13,SAT5 RW 2.13,xyz00040,Information and Ideas,Command of Evidence,-,C,628,,-
+SAT5,Reading & Writing,2,14,SAT5 RW 2.14,xyz00041,Information and Ideas,Command of Evidence,-,D,629,,-
+SAT5,Reading & Writing,2,15,SAT5 RW 2.15,xyz00042,Information and Ideas,Inferences,-,A,630,,-
+SAT5,Reading & Writing,2,16,SAT5 RW 2.16,xyz00043,Standard English Conventions,"Form, Structure, and Sense",-,A,631,,-
+SAT5,Reading & Writing,2,17,SAT5 RW 2.17,xyz00044,Standard English Conventions,"Form, Structure, and Sense",-,C,632,,-
+SAT5,Reading & Writing,2,18,SAT5 RW 2.18,xyz00045,Standard English Conventions,Boundaries,-,C,633,,-
+SAT5,Reading & Writing,2,19,SAT5 RW 2.19,xyz00046,Standard English Conventions,Boundaries,-,D,634,,-
+SAT5,Reading & Writing,2,20,SAT5 RW 2.20,xyz00047,Standard English Conventions,"Form, Structure, and Sense",-,A,635,,-
+SAT5,Reading & Writing,2,21,SAT5 RW 2.21,xyz00048,Standard English Conventions,"Form, Structure, and Sense",-,D,636,,-
+SAT5,Reading & Writing,2,22,SAT5 RW 2.22,xyz00049,Expression of Ideas,Transitions,-,D,637,,-
+SAT5,Reading & Writing,2,23,SAT5 RW 2.23,xyz00050,Expression of Ideas,Transitions,-,D,638,,-
+SAT5,Reading & Writing,2,24,SAT5 RW 2.24,xyz00051,Expression of Ideas,Transitions,-,B,639,,-
+SAT5,Reading & Writing,2,25,SAT5 RW 2.25,xyz00052,Expression of Ideas,Rhetorical Synthesis,-,D,640,,-
+SAT5,Reading & Writing,2,26,SAT5 RW 2.26,xyz00053,Expression of Ideas,Rhetorical Synthesis,-,D,641,,-
+SAT5,Reading & Writing,2,27,SAT5 RW 2.27,xyz00054,Expression of Ideas,Rhetorical Synthesis,-,B,642,,-
+SAT5,Reading & Writing,3,1,SAT5 RW 3.1,xyz00055,Craft and Structure,Words in Context,-,B,643,,-
+SAT5,Reading & Writing,3,2,SAT5 RW 3.2,xyz00056,Craft and Structure,Words in Context,-,D,644,,-
+SAT5,Reading & Writing,3,3,SAT5 RW 3.3,xyz00057,Craft and Structure,Words in Context,-,B,645,,-
+SAT5,Reading & Writing,3,4,SAT5 RW 3.4,xyz00058,Craft and Structure,Words in Context,-,D,646,,-
+SAT5,Reading & Writing,3,5,SAT5 RW 3.5,xyz00059,Craft and Structure,Words in Context,-,D,647,,-
+SAT5,Reading & Writing,3,6,SAT5 RW 3.6,xyz00060,Craft and Structure,"Text, Structure, and Purpose",-,B,648,,-
+SAT5,Reading & Writing,3,7,SAT5 RW 3.7,xyz00061,Craft and Structure,"Text, Structure, and Purpose",-,B,649,,-
+SAT5,Reading & Writing,3,8,SAT5 RW 3.8,xyz00062,Craft and Structure,Cross-Text Connections,-,A,650,,-
+SAT5,Reading & Writing,3,9,SAT5 RW 3.9,xyz00063,Information and Ideas,Central Ideas and Details,-,C,651,,-
+SAT5,Reading & Writing,3,10,SAT5 RW 3.10,xyz00064,Information and Ideas,Command of Evidence,-,D,652,,-
+SAT5,Reading & Writing,3,11,SAT5 RW 3.11,xyz00065,Information and Ideas,Command of Evidence,-,C,653,,-
+SAT5,Reading & Writing,3,12,SAT5 RW 3.12,xyz00066,Information and Ideas,Command of Evidence,-,B,654,,-
+SAT5,Reading & Writing,3,13,SAT5 RW 3.13,xyz00067,Information and Ideas,Command of Evidence,-,D,655,,-
+SAT5,Reading & Writing,3,14,SAT5 RW 3.14,xyz00068,Information and Ideas,Inferences,-,D,656,,-
+SAT5,Reading & Writing,3,15,SAT5 RW 3.15,xyz00069,Information and Ideas,Inferences,-,A,657,,-
+SAT5,Reading & Writing,3,16,SAT5 RW 3.16,xyz00070,Standard English Conventions,"Form, Structure, and Sense",-,A,658,,-
+SAT5,Reading & Writing,3,17,SAT5 RW 3.17,xyz00071,Standard English Conventions,"Form, Structure, and Sense",-,D,659,,-
+SAT5,Reading & Writing,3,18,SAT5 RW 3.18,xyz00072,Standard English Conventions,Boundaries,-,C,660,,-
+SAT5,Reading & Writing,3,19,SAT5 RW 3.19,xyz00073,Standard English Conventions,"Form, Structure, and Sense",-,C,661,,-
+SAT5,Reading & Writing,3,20,SAT5 RW 3.20,xyz00074,Standard English Conventions,Boundaries,-,A,662,,-
+SAT5,Reading & Writing,3,21,SAT5 RW 3.21,xyz00075,Standard English Conventions,Boundaries,-,D,663,,-
+SAT5,Reading & Writing,3,22,SAT5 RW 3.22,xyz00076,Expression of Ideas,Transitions,-,C,664,,-
+SAT5,Reading & Writing,3,23,SAT5 RW 3.23,xyz00077,Expression of Ideas,Transitions,-,B,665,,-
+SAT5,Reading & Writing,3,24,SAT5 RW 3.24,xyz00078,Expression of Ideas,Transitions,-,D,666,,-
+SAT5,Reading & Writing,3,25,SAT5 RW 3.25,xyz00079,Expression of Ideas,Transitions,-,D,667,,-
+SAT5,Reading & Writing,3,26,SAT5 RW 3.26,xyz00080,Expression of Ideas,Rhetorical Synthesis,-,B,668,,-
+SAT5,Reading & Writing,3,27,SAT5 RW 3.27,xyz00081,Expression of Ideas,Rhetorical Synthesis,-,C,669,,-
+SAT5,Math,1,1,SAT5 M 1.1,xyz00082,Algebra,Linear Equations in Two Variables,-,D,670,,-
+SAT5,Math,1,2,SAT5 M 1.2,xyz00083,Problem-Solving,"Ratios, Rates, Proportions, and Units",-,A,671,,-
+SAT5,Math,1,3,SAT5 M 1.3,xyz00084,Geometry and Trigonometry,"Lines, Angles, and Triangles",-,C,672,,-
+SAT5,Math,1,4,SAT5 M 1.4,xyz00085,Algebra,Linear Functions,-,11,673,,-
+SAT5,Math,1,5,SAT5 M 1.5,xyz00086,Algebra,Linear Equations in One Variable,-,C,674,,-
+SAT5,Math,1,6,SAT5 M 1.6,xyz00087,Problem-Solving,Percentages,-,10,675,,-
+SAT5,Math,1,7,SAT5 M 1.7,xyz00088,Problem-Solving,One-variable data,-,A,676,,-
+SAT5,Math,1,8,SAT5 M 1.8,xyz00089,Algebra,Linear Inequalities,-,D,677,,-
+SAT5,Math,1,9,SAT5 M 1.9,xyz00090,Advanced Math,Equivalent Expressions,-,B,678,,-
+SAT5,Math,1,10,SAT5 M 1.10,xyz00091,Algebra,Linear Equations in Two Variables,-,D,679,,-
+SAT5,Math,1,11,SAT5 M 1.11,xyz00092,Advanced Math,Nonlinear Equations and Systems,-,"30, -30",680,,-
+SAT5,Math,1,12,SAT5 M 1.12,xyz00093,Algebra,Linear Equations in Two Variables,-,451/100,681,,-
+SAT5,Math,1,13,SAT5 M 1.13,xyz00094,Advanced Math,Nonlinear Functions,-,A,682,,-
+SAT5,Math,1,14,SAT5 M 1.14,xyz00095,Advanced Math,Nonlinear Functions,-,D,683,,-
+SAT5,Math,1,15,SAT5 M 1.15,xyz00096,Advanced Math,Nonlinear Equations and Systems,-,D,684,,-
+SAT5,Math,1,16,SAT5 M 1.16,xyz00097,Geometry and Trigonometry,Area and Volume,-,4205,685,,-
+SAT5,Math,1,17,SAT5 M 1.17,xyz00098,Advanced Math,Nonlinear Equations and Systems,-,18,686,,-
+SAT5,Math,1,18,SAT5 M 1.18,xyz00099,Geometry and Trigonometry,Right Triangles and Trigonometry,-,A,687,,-
+SAT5,Math,1,19,SAT5 M 1.19,xyz00100,Advanced Math,Equivalent Expressions,-,D,688,,-
+SAT5,Math,1,20,SAT5 M 1.20,xyz00101,Geometry and Trigonometry,Circles,-,B,689,,-
+SAT5,Math,1,21,SAT5 M 1.21,xyz00102,Geometry and Trigonometry,Area and Volume,-,D,690,,-
+SAT5,Math,1,22,SAT5 M 1.22,xyz00103,Advanced Math,Nonlinear Functions,-,D,691,,-
+SAT5,Math,2,1,SAT5 M 2.1,xyz00104,Problem-Solving,Two-variable data,-,B,692,,-
+SAT5,Math,2,2,SAT5 M 2.2,xyz00105,Advanced Math,Nonlinear Equations and Systems,-,C,693,,-
+SAT5,Math,2,3,SAT5 M 2.3,xyz00106,Advanced Math,Nonlinear Functions,-,B,694,,-
+SAT5,Math,2,4,SAT5 M 2.4,xyz00107,Problem-Solving,Probability,-,B,695,,-
+SAT5,Math,2,5,SAT5 M 2.5,xyz00108,Algebra,Linear Functions,-,A,696,,-
+SAT5,Math,2,6,SAT5 M 2.6,xyz00109,Algebra,Linear Equations in One Variable,-,6,697,,-
+SAT5,Math,2,7,SAT5 M 2.7,xyz00110,Algebra,Linear Functions,-,B,698,,-
+SAT5,Math,2,8,SAT5 M 2.8,xyz00111,Algebra,Linear Functions,-,B,699,,-
+SAT5,Math,2,9,SAT5 M 2.9,xyz00112,Algebra,Systems of Linear Equations,-,A,700,,-
+SAT5,Math,2,10,SAT5 M 2.10,xyz00113,Problem-Solving,One-variable data,-,29,701,,-
+SAT5,Math,2,11,SAT5 M 2.11,xyz00114,Algebra,Systems of Linear Equations,-,4,702,,-
+SAT5,Math,2,12,SAT5 M 2.12,xyz00115,Advanced Math,Nonlinear Functions,-,45293,703,,-
+SAT5,Math,2,13,SAT5 M 2.13,xyz00116,Algebra,Linear Functions,-,D,704,,-
+SAT5,Math,2,14,SAT5 M 2.14,xyz00117,Algebra,Linear Inequalities,-,D,705,,-
+SAT5,Math,2,15,SAT5 M 2.15,xyz00118,Algebra,Linear Functions,-,D,706,,-
+SAT5,Math,2,16,SAT5 M 2.16,xyz00119,Geometry and Trigonometry,Area and Volume,-,15/2,707,,-
+SAT5,Math,2,17,SAT5 M 2.17,xyz00120,Algebra,Linear Equations in Two Variables,-,A,708,,-
+SAT5,Math,2,18,SAT5 M 2.18,xyz00121,Advanced Math,Nonlinear Equations and Systems,-,6,709,,-
+SAT5,Math,2,19,SAT5 M 2.19,xyz00122,Problem-Solving,"Ratios, Rates, Proportions, and Units",-,B,710,,-
+SAT5,Math,2,20,SAT5 M 2.20,xyz00123,Advanced Math,Nonlinear Functions,-,A,711,,-
+SAT5,Math,2,21,SAT5 M 2.21,xyz00124,Geometry and Trigonometry,"Lines, Angles, and Triangles",-,A,712,,-
+SAT5,Math,2,22,SAT5 M 2.22,xyz00125,Geometry and Trigonometry,Right Triangles and Trigonometry,-,B,713,,-
+SAT5,Math,3,1,SAT5 M 3.1,xyz00126,Geometry and Trigonometry,Right Triangles and Trigonometry,-,B,714,,-
+SAT5,Math,3,2,SAT5 M 3.2,xyz00127,Algebra,Linear Functions,-,B,715,,-
+SAT5,Math,3,3,SAT5 M 3.3,xyz00128,Problem-Solving,Sample Statistics and Margin of Error,-,B,716,,-
+SAT5,Math,3,4,SAT5 M 3.4,xyz00129,Algebra,Linear Inequalities,-,A,717,,-
+SAT5,Math,3,5,SAT5 M 3.5,xyz00130,Algebra,Systems of Linear Equations,-,C,718,,-
+SAT5,Math,3,6,SAT5 M 3.6,xyz00131,Problem-Solving,One-variable data,-,29,719,,-
+SAT5,Math,3,7,SAT5 M 3.7,xyz00132,Algebra,Systems of Linear Equations,-,D,720,,-
+SAT5,Math,3,8,SAT5 M 3.8,xyz00133,Advanced Math,Nonlinear Equations and Systems,-,D,721,,-
+SAT5,Math,3,9,SAT5 M 3.9,xyz00134,Advanced Math,Nonlinear Equations and Systems,-,A,722,,-
+SAT5,Math,3,10,SAT5 M 3.10,xyz00135,Algebra,Linear Equations in Two Variables,-,-10,723,,-
+SAT5,Math,3,11,SAT5 M 3.11,xyz00136,Algebra,Linear Equations in One Variable,-,A,724,,-
+SAT5,Math,3,12,SAT5 M 3.12,xyz00137,Algebra,Linear Equations in Two Variables,-,D,725,,-
+SAT5,Math,3,13,SAT5 M 3.13,xyz00138,Advanced Math,Nonlinear Equations and Systems,-,D,726,,-
+SAT5,Math,3,14,SAT5 M 3.14,xyz00139,Advanced Math,Nonlinear Functions,-,A,727,,-
+SAT5,Math,3,15,SAT5 M 3.15,xyz00140,Algebra,Systems of Linear Equations,-,10,728,,-
+SAT5,Math,3,16,SAT5 M 3.16,xyz00141,Advanced Math,Nonlinear Functions,-,-24,729,,-
+SAT5,Math,3,17,SAT5 M 3.17,xyz00142,Algebra,Linear Functions,-,A,730,,-
+SAT5,Math,3,18,SAT5 M 3.18,xyz00143,Geometry and Trigonometry,Area and Volume,-,480,731,,-
+SAT5,Math,3,19,SAT5 M 3.19,xyz00144,Problem-Solving,Percentages,-,A,732,,-
+SAT5,Math,3,20,SAT5 M 3.20,xyz00145,Geometry and Trigonometry,Circles,-,A,733,,-
+SAT5,Math,3,21,SAT5 M 3.21,xyz00146,Advanced Math,Nonlinear Functions,-,4176,734,,-
+SAT5,Math,3,22,SAT5 M 3.22,xyz00147,Problem-Solving,Two-variable data,-,A,735,,-
+SAT6,Reading & Writing,1,1,SAT6 RW 1.1,xyz00148,Craft and Structure,Words in Context,-,D,736,,-
+SAT6,Reading & Writing,1,2,SAT6 RW 1.2,xyz00149,Craft and Structure,Words in Context,-,D,737,,-
+SAT6,Reading & Writing,1,3,SAT6 RW 1.3,xyz00150,Craft and Structure,Words in Context,-,D,738,,-
+SAT6,Reading & Writing,1,4,SAT6 RW 1.4,xyz00151,Craft and Structure,Words in Context,-,B,739,,-
+SAT6,Reading & Writing,1,5,SAT6 RW 1.5,xyz00152,Craft and Structure,"Text, Structure, and Purpose",-,C,740,,-
+SAT6,Reading & Writing,1,6,SAT6 RW 1.6,xyz00153,Craft and Structure,"Text, Structure, and Purpose",-,C,741,,-
+SAT6,Reading & Writing,1,7,SAT6 RW 1.7,xyz00154,Craft and Structure,"Text, Structure, and Purpose",-,B,742,,-
+SAT6,Reading & Writing,1,8,SAT6 RW 1.8,xyz00155,Craft and Structure,Cross-Text Connections,-,B,743,,-
+SAT6,Reading & Writing,1,9,SAT6 RW 1.9,xyz00156,Information and Ideas,Central Ideas and Details,-,A,744,,-
+SAT6,Reading & Writing,1,10,SAT6 RW 1.10,xyz00157,Information and Ideas,Command of Evidence,-,B,745,,-
+SAT6,Reading & Writing,1,11,SAT6 RW 1.11,xyz00158,Information and Ideas,Command of Evidence,-,C,746,,-
+SAT6,Reading & Writing,1,12,SAT6 RW 1.12,xyz00159,Information and Ideas,Command of Evidence,-,B,747,,-
+SAT6,Reading & Writing,1,13,SAT6 RW 1.13,xyz00160,Information and Ideas,Command of Evidence,-,B,748,,-
+SAT6,Reading & Writing,1,14,SAT6 RW 1.14,xyz00161,Information and Ideas,Inferences,-,A,749,,-
+SAT6,Reading & Writing,1,15,SAT6 RW 1.15,xyz00162,Information and Ideas,Inferences,-,B,750,,-
+SAT6,Reading & Writing,1,16,SAT6 RW 1.16,xyz00163,Standard English Conventions,Boundaries,-,B,751,,-
+SAT6,Reading & Writing,1,17,SAT6 RW 1.17,xyz00164,Standard English Conventions,"Form, Structure, and Sense",-,D,752,,-
+SAT6,Reading & Writing,1,18,SAT6 RW 1.18,xyz00165,Standard English Conventions,Boundaries,-,B,753,,-
+SAT6,Reading & Writing,1,19,SAT6 RW 1.19,xyz00166,Standard English Conventions,"Form, Structure, and Sense",-,B,754,,-
+SAT6,Reading & Writing,1,20,SAT6 RW 1.20,xyz00167,Standard English Conventions,"Form, Structure, and Sense",-,D,755,,-
+SAT6,Reading & Writing,1,21,SAT6 RW 1.21,xyz00168,Standard English Conventions,Boundaries,-,A,756,,-
+SAT6,Reading & Writing,1,22,SAT6 RW 1.22,xyz00169,Expression of Ideas,Transitions,-,D,757,,-
+SAT6,Reading & Writing,1,23,SAT6 RW 1.23,xyz00170,Expression of Ideas,Transitions,-,D,758,,-
+SAT6,Reading & Writing,1,24,SAT6 RW 1.24,xyz00171,Expression of Ideas,Transitions,-,D,759,,-
+SAT6,Reading & Writing,1,25,SAT6 RW 1.25,xyz00172,Expression of Ideas,Transitions,-,C,760,,-
+SAT6,Reading & Writing,1,26,SAT6 RW 1.26,xyz00173,Expression of Ideas,Rhetorical Synthesis,-,A,761,,-
+SAT6,Reading & Writing,1,27,SAT6 RW 1.27,xyz00174,Expression of Ideas,Rhetorical Synthesis,-,C,762,,-
+SAT6,Reading & Writing,2,1,SAT6 RW 2.1,xyz00175,Craft and Structure,Words in Context,-,A,763,,-
+SAT6,Reading & Writing,2,2,SAT6 RW 2.2,xyz00176,Craft and Structure,Words in Context,-,C,764,,-
+SAT6,Reading & Writing,2,3,SAT6 RW 2.3,xyz00177,Craft and Structure,Words in Context,-,C,765,,-
+SAT6,Reading & Writing,2,4,SAT6 RW 2.4,xyz00178,Craft and Structure,Words in Context,-,A,766,,-
+SAT6,Reading & Writing,2,5,SAT6 RW 2.5,xyz00179,Craft and Structure,"Text, Structure, and Purpose",-,C,767,,-
+SAT6,Reading & Writing,2,6,SAT6 RW 2.6,xyz00180,Craft and Structure,"Text, Structure, and Purpose",-,C,768,,-
+SAT6,Reading & Writing,2,7,SAT6 RW 2.7,xyz00181,Information and Ideas,Central Ideas and Details,-,A,769,,-
+SAT6,Reading & Writing,2,8,SAT6 RW 2.8,xyz00182,Information and Ideas,Central Ideas and Details,-,D,770,,-
+SAT6,Reading & Writing,2,9,SAT6 RW 2.9,xyz00183,Information and Ideas,Central Ideas and Details,-,D,771,,-
+SAT6,Reading & Writing,2,10,SAT6 RW 2.10,xyz00184,Information and Ideas,Command of Evidence,-,A,772,,-
+SAT6,Reading & Writing,2,11,SAT6 RW 2.11,xyz00185,Information and Ideas,Command of Evidence,-,D,773,,-
+SAT6,Reading & Writing,2,12,SAT6 RW 2.12,xyz00186,Information and Ideas,Command of Evidence,-,A,774,,-
+SAT6,Reading & Writing,2,13,SAT6 RW 2.13,xyz00187,Information and Ideas,Command of Evidence,-,D,775,,-
+SAT6,Reading & Writing,2,14,SAT6 RW 2.14,xyz00188,Information and Ideas,Inferences,-,A,776,,-
+SAT6,Reading & Writing,2,15,SAT6 RW 2.15,xyz00189,Standard English Conventions,"Form, Structure, and Sense",-,A,777,,-
+SAT6,Reading & Writing,2,16,SAT6 RW 2.16,xyz00190,Standard English Conventions,"Form, Structure, and Sense",-,A,778,,-
+SAT6,Reading & Writing,2,17,SAT6 RW 2.17,xyz00191,Standard English Conventions,"Form, Structure, and Sense",-,A,779,,-
+SAT6,Reading & Writing,2,18,SAT6 RW 2.18,xyz00192,Standard English Conventions,"Form, Structure, and Sense",-,D,780,,-
+SAT6,Reading & Writing,2,19,SAT6 RW 2.19,xyz00193,Standard English Conventions,"Form, Structure, and Sense",-,B,781,,-
+SAT6,Reading & Writing,2,20,SAT6 RW 2.20,xyz00194,Standard English Conventions,Boundaries,-,C,782,,-
+SAT6,Reading & Writing,2,21,SAT6 RW 2.21,xyz00195,Expression of Ideas,Transitions,-,C,783,,-
+SAT6,Reading & Writing,2,22,SAT6 RW 2.22,xyz00196,Expression of Ideas,Transitions,-,C,784,,-
+SAT6,Reading & Writing,2,23,SAT6 RW 2.23,xyz00197,Expression of Ideas,Transitions,-,C,785,,-
+SAT6,Reading & Writing,2,24,SAT6 RW 2.24,xyz00198,Expression of Ideas,Transitions,-,D,786,,-
+SAT6,Reading & Writing,2,25,SAT6 RW 2.25,xyz00199,Expression of Ideas,Rhetorical Synthesis,-,B,787,,-
+SAT6,Reading & Writing,2,26,SAT6 RW 2.26,xyz00200,Expression of Ideas,Rhetorical Synthesis,-,D,788,,-
+SAT6,Reading & Writing,2,27,SAT6 RW 2.27,xyz00201,Expression of Ideas,Rhetorical Synthesis,-,B,789,,-
+SAT6,Reading & Writing,3,1,SAT6 RW 3.1,xyz00202,Craft and Structure,Words in Context,-,A,790,,-
+SAT6,Reading & Writing,3,2,SAT6 RW 3.2,xyz00203,Craft and Structure,Words in Context,-,B,791,,-
+SAT6,Reading & Writing,3,3,SAT6 RW 3.3,xyz00204,Craft and Structure,Words in Context,-,B,792,,-
+SAT6,Reading & Writing,3,4,SAT6 RW 3.4,xyz00205,Craft and Structure,Words in Context,-,D,793,,-
+SAT6,Reading & Writing,3,5,SAT6 RW 3.5,xyz00206,Craft and Structure,"Text, Structure, and Purpose",-,A,794,,-
+SAT6,Reading & Writing,3,6,SAT6 RW 3.6,xyz00207,Craft and Structure,"Text, Structure, and Purpose",-,C,795,,-
+SAT6,Reading & Writing,3,7,SAT6 RW 3.7,xyz00208,Information and Ideas,Central Ideas and Details,-,D,796,,-
+SAT6,Reading & Writing,3,8,SAT6 RW 3.8,xyz00209,Information and Ideas,Central Ideas and Details,-,C,797,,-
+SAT6,Reading & Writing,3,9,SAT6 RW 3.9,xyz00210,Information and Ideas,Central Ideas and Details,-,C,798,,-
+SAT6,Reading & Writing,3,10,SAT6 RW 3.10,xyz00211,Information and Ideas,Command of Evidence,-,D,799,,-
+SAT6,Reading & Writing,3,11,SAT6 RW 3.11,xyz00212,Information and Ideas,Command of Evidence,-,D,800,,-
+SAT6,Reading & Writing,3,12,SAT6 RW 3.12,xyz00213,Information and Ideas,Command of Evidence,-,D,801,,-
+SAT6,Reading & Writing,3,13,SAT6 RW 3.13,xyz00214,Information and Ideas,Command of Evidence,-,B,802,,-
+SAT6,Reading & Writing,3,14,SAT6 RW 3.14,xyz00215,Information and Ideas,Inferences,-,A,803,,-
+SAT6,Reading & Writing,3,15,SAT6 RW 3.15,xyz00216,Standard English Conventions,"Form, Structure, and Sense",-,A,804,,-
+SAT6,Reading & Writing,3,16,SAT6 RW 3.16,xyz00217,Standard English Conventions,Boundaries,-,B,805,,-
+SAT6,Reading & Writing,3,17,SAT6 RW 3.17,xyz00218,Standard English Conventions,Boundaries,-,B,806,,-
+SAT6,Reading & Writing,3,18,SAT6 RW 3.18,xyz00219,Standard English Conventions,Boundaries,-,B,807,,-
+SAT6,Reading & Writing,3,19,SAT6 RW 3.19,xyz00220,Standard English Conventions,Boundaries,-,C,808,,-
+SAT6,Reading & Writing,3,20,SAT6 RW 3.20,xyz00221,Standard English Conventions,"Form, Structure, and Sense",-,B,809,,-
+SAT6,Reading & Writing,3,21,SAT6 RW 3.21,xyz00222,Expression of Ideas,Transitions,-,D,810,,-
+SAT6,Reading & Writing,3,22,SAT6 RW 3.22,xyz00223,Expression of Ideas,Transitions,-,B,811,,-
+SAT6,Reading & Writing,3,23,SAT6 RW 3.23,xyz00224,Expression of Ideas,Transitions,-,B,812,,-
+SAT6,Reading & Writing,3,24,SAT6 RW 3.24,xyz00225,Expression of Ideas,Transitions,-,B,813,,-
+SAT6,Reading & Writing,3,25,SAT6 RW 3.25,xyz00226,Expression of Ideas,Rhetorical Synthesis,-,A,814,,-
+SAT6,Reading & Writing,3,26,SAT6 RW 3.26,xyz00227,Expression of Ideas,Rhetorical Synthesis,-,D,815,,-
+SAT6,Reading & Writing,3,27,SAT6 RW 3.27,xyz00228,Expression of Ideas,Rhetorical Synthesis,-,C,816,,-
+SAT6,Math,1,1,SAT6 M 1.1,xyz00229,Problem-Solving,"Ratios, Rates, Proportions, and Units",-,A,817,,-
+SAT6,Math,1,2,SAT6 M 1.2,xyz00230,Algebra,Linear Equations in Two Variables,-,D,818,,-
+SAT6,Math,1,3,SAT6 M 1.3,xyz00231,Advanced Math,Equivalent Expressions,-,B,819,,-
+SAT6,Math,1,4,SAT6 M 1.4,xyz00232,Algebra,Linear Equations in Two Variables,-,B,820,,-
+SAT6,Math,1,5,SAT6 M 1.5,xyz00233,Problem-Solving,Sample Statistics and Margin of Error,-,B,821,,-
+SAT6,Math,1,6,SAT6 M 1.6,xyz00234,Algebra,Linear Equations in One Variable,-,A,822,,-
+SAT6,Math,1,7,SAT6 M 1.7,xyz00235,Advanced Math,Nonlinear Equations and Systems,-,A,823,,-
+SAT6,Math,1,8,SAT6 M 1.8,xyz00236,Advanced Math,Nonlinear Functions,-,C,824,,-
+SAT6,Math,1,9,SAT6 M 1.9,xyz00237,Advanced Math,Equivalent Expressions,-,B,825,,-
+SAT6,Math,1,10,SAT6 M 1.10,xyz00238,Advanced Math,Nonlinear Functions,-,18,826,,-
+SAT6,Math,1,11,SAT6 M 1.11,xyz00239,Advanced Math,Nonlinear Equations and Systems,-,B,827,,-
+SAT6,Math,1,12,SAT6 M 1.12,xyz00240,Algebra,Linear Equations in One Variable,-,C,828,,-
+SAT6,Math,1,13,SAT6 M 1.13,xyz00241,Advanced Math,Nonlinear Equations and Systems,-,D,829,,-
+SAT6,Math,1,14,SAT6 M 1.14,xyz00242,Problem-Solving,One-variable data,-,4,830,,-
+SAT6,Math,1,15,SAT6 M 1.15,xyz00243,Geometry and Trigonometry,Area and Volume,-,D,831,,-
+SAT6,Math,1,16,SAT6 M 1.16,xyz00244,Problem-Solving,Two-variable data,-,A,832,,-
+SAT6,Math,1,17,SAT6 M 1.17,xyz00245,Geometry and Trigonometry,Right Triangles and Trigonometry,-,11/28,833,,-
+SAT6,Math,1,18,SAT6 M 1.18,xyz00246,Advanced Math,Nonlinear Equations and Systems,-,C,834,,-
+SAT6,Math,1,19,SAT6 M 1.19,xyz00247,Geometry and Trigonometry,"Lines, Angles, and Triangles",-,54,835,,-
+SAT6,Math,1,20,SAT6 M 1.20,xyz00248,Advanced Math,Nonlinear Functions,-,336,836,,-
+SAT6,Math,1,21,SAT6 M 1.21,xyz00249,Problem-Solving,Percentages,-,79,837,,-
+SAT6,Math,1,22,SAT6 M 1.22,xyz00250,Geometry and Trigonometry,Circles,-,A,838,,-
+SAT6,Math,2,1,SAT6 M 2.1,xyz00251,Problem-Solving,"Ratios, Rates, Proportions, and Units",-,B,839,,-
+SAT6,Math,2,2,SAT6 M 2.2,xyz00252,Algebra,Linear Functions,-,B,840,,-
+SAT6,Math,2,3,SAT6 M 2.3,xyz00253,Problem-Solving,Percentages,-,B,841,,-
+SAT6,Math,2,4,SAT6 M 2.4,xyz00254,Geometry and Trigonometry,"Lines, Angles, and Triangles",-,A,842,,-
+SAT6,Math,2,5,SAT6 M 2.5,xyz00255,Algebra,Linear Equations in One Variable,-,A,843,,-
+SAT6,Math,2,6,SAT6 M 2.6,xyz00256,Advanced Math,Nonlinear Equations and Systems,-,3,844,,-
+SAT6,Math,2,7,SAT6 M 2.7,xyz00257,Algebra,Systems of Linear Equations,-,B,845,,-
+SAT6,Math,2,8,SAT6 M 2.8,xyz00258,Advanced Math,Nonlinear Equations and Systems,-,D,846,,-
+SAT6,Math,2,9,SAT6 M 2.9,xyz00259,Algebra,Systems of Linear Equations,-,6,847,,-
+SAT6,Math,2,10,SAT6 M 2.10,xyz00260,Algebra,Linear Inequalities,-,D,848,,-
+SAT6,Math,2,11,SAT6 M 2.11,xyz00261,Advanced Math,Nonlinear Functions,-,C,849,,-
+SAT6,Math,2,12,SAT6 M 2.12,xyz00262,Advanced Math,Nonlinear Functions,-,D,850,,-
+SAT6,Math,2,13,SAT6 M 2.13,xyz00263,Geometry and Trigonometry,"Lines, Angles, and Triangles",-,C,851,,-
+SAT6,Math,2,14,SAT6 M 2.14,xyz00264,Algebra,Linear Functions,-,20,852,,-
+SAT6,Math,2,15,SAT6 M 2.15,xyz00265,Problem-Solving,Probability,-,D,853,,-
+SAT6,Math,2,16,SAT6 M 2.16,xyz00266,Advanced Math,Nonlinear Functions,-,774,854,,-
+SAT6,Math,2,17,SAT6 M 2.17,xyz00267,Advanced Math,Nonlinear Functions,-,D,855,,-
+SAT6,Math,2,18,SAT6 M 2.18,xyz00268,Geometry and Trigonometry,Area and Volume,-,C,856,,-
+SAT6,Math,2,19,SAT6 M 2.19,xyz00269,Algebra,Linear Equations in Two Variables,-,44/3,857,,-
+SAT6,Math,2,20,SAT6 M 2.20,xyz00270,Geometry and Trigonometry,Right Triangles and Trigonometry,-,66,858,,-
+SAT6,Math,2,21,SAT6 M 2.21,xyz00271,Algebra,Linear Inequalities,-,D,859,,-
+SAT6,Math,2,22,SAT6 M 2.22,xyz00272,Algebra,Systems of Linear Equations,-,C,860,,-
+SAT6,Math,3,1,SAT6 M 3.1,xyz00273,Problem-Solving,"Ratios, Rates, Proportions, and Units",-,B,861,,-
+SAT6,Math,3,2,SAT6 M 3.2,xyz00274,Geometry and Trigonometry,"Lines, Angles, and Triangles",-,A,862,,-
+SAT6,Math,3,3,SAT6 M 3.3,xyz00275,Algebra,Linear Inequalities,-,A,863,,-
+SAT6,Math,3,4,SAT6 M 3.4,xyz00276,Algebra,Linear Functions,-,3,864,,-
+SAT6,Math,3,5,SAT6 M 3.5,xyz00277,Algebra,Linear Inequalities,-,D,865,,-
+SAT6,Math,3,6,SAT6 M 3.6,xyz00278,Problem-Solving,Two-variable data,-,B,866,,-
+SAT6,Math,3,7,SAT6 M 3.7,xyz00279,Algebra,Linear Functions,-,D,867,,-
+SAT6,Math,3,8,SAT6 M 3.8,xyz00280,Algebra,Linear Equations in One Variable,-,A,868,,-
+SAT6,Math,3,9,SAT6 M 3.9,xyz00281,Advanced Math,Nonlinear Equations and Systems,-,D,869,,-
+SAT6,Math,3,10,SAT6 M 3.10,xyz00282,Algebra,Linear Equations in Two Variables,-,189/5,870,,-
+SAT6,Math,3,11,SAT6 M 3.11,xyz00283,Algebra,Systems of Linear Equations,-,D,871,,-
+SAT6,Math,3,12,SAT6 M 3.12,xyz00284,Algebra,Systems of Linear Equations,-,1677,872,,-
+SAT6,Math,3,13,SAT6 M 3.13,xyz00285,Advanced Math,Nonlinear Functions,-,1728,873,,-
+SAT6,Math,3,14,SAT6 M 3.14,xyz00286,Algebra,Linear Equations in One Variable,-,B,874,,-
+SAT6,Math,3,15,SAT6 M 3.15,xyz00287,Advanced Math,Nonlinear Functions,-,25,875,,-
+SAT6,Math,3,16,SAT6 M 3.16,xyz00288,Problem-Solving,Probability,-,C,876,,-
+SAT6,Math,3,17,SAT6 M 3.17,xyz00289,Geometry and Trigonometry,Right Triangles and Trigonometry,-,66,877,,-
+SAT6,Math,3,18,SAT6 M 3.18,xyz00290,Problem-Solving,Percentages,-,D,878,,-
+SAT6,Math,3,19,SAT6 M 3.19,xyz00291,Algebra,Systems of Linear Equations,-,7/2,879,,-
+SAT6,Math,3,20,SAT6 M 3.20,xyz00292,Advanced Math,Nonlinear Functions,-,A,880,,-
+SAT6,Math,3,21,SAT6 M 3.21,xyz00293,Geometry and Trigonometry,Circles,-,D,881,,-
+SAT6,Math,3,22,SAT6 M 3.22,xyz00294,Advanced Math,Nonlinear Functions,-,A,882,,-
+SLT1,Reading & Writing,1,5,SLT1 RW 1.5,5dce6cab,Craft and Structure,Words in Context,3,B,883,,-
+SLT1,Reading & Writing,1,12,SLT1 RW 1.12,6f626ae5,Information and Ideas,Command of Evidence,1,A,884,,-
+SLT1,Reading & Writing,1,20,SLT1 RW 1.20,fe41f258,Standard English Conventions,Boundaries,2,A,885,,-
+SLT1,Reading & Writing,1,28,SLT1 RW 1.28,dfbf5d33,Standard English Conventions,"Form, Structure, and Sense",3,A,886,,-
+SLT1,Reading & Writing,1,29,SLT1 RW 1.29,f33f0892,Expression of Ideas,Transitions,1,D,887,,-
+SLT1,Reading & Writing,1,30,SLT1 RW 1.30,0205e563,Expression of Ideas,Transitions,2,C,888,,-
+SLT1,Reading & Writing,1,33,SLT1 RW 1.33,c34d6bff,Expression of Ideas,Rhetorical Synthesis,3,C,889,,-
+SLT1,Reading & Writing,2,12,SLT1 RW 2.12,0770b53d,Information and Ideas,Command of Evidence,1,A,890,,-
+SLT1,Reading & Writing,2,16,SLT1 RW 2.16,124fdcd7,Information and Ideas,Command of Evidence,3,C,891,,-
+SLT1,Reading & Writing,2,26,SLT1 RW 2.26,37e5c794,Standard English Conventions,"Form, Structure, and Sense",3,D,892,,-
+SLT1,Reading & Writing,2,33,SLT1 RW 2.33,2bf05ae9,Expression of Ideas,Rhetorical Synthesis,2,D,893,,-
+SLT1,Math,1,3,SLT1 M 1.3,c50ede6d,Algebra,Linear Inequalities,1,D,894,,-
+SLT1,Math,1,8,SLT1 M 1.8,029c2dc2,Algebra,Linear Equations in Two Variables,1,D,895,,-
+SLT1,Math,1,9,SLT1 M 1.9,4ff7b652,Geometry and Trigonometry,"Lines, Angles, and Triangles",2,B,896,,-
+SLT1,Math,1,10,SLT1 M 1.10,4ec95eab,Algebra,Systems of Linear Equations,1,C,897,,-
+SLT1,Math,1,13,SLT1 M 1.13,7038b587,Algebra,Linear Equations in Two Variables,1,41,898,,-
+SLT1,Math,1,14,SLT1 M 1.14,717a1964,Advanced Math,Nonlinear Equations and Systems,2,"2, -12",899,,-
+SLT1,Math,1,16,SLT1 M 1.16,26eb61c1,Advanced Math,Equivalent Expressions,2,C,900,,-
+SLT1,Math,1,18,SLT1 M 1.18,2e0290c3,Algebra,Linear Equations in Two Variables,2,B,901,,-
+SLT1,Math,1,19,SLT1 M 1.19,f329442c,Geometry and Trigonometry,Area and Volume,3,D,902,,-
+SLT1,Math,1,20,SLT1 M 1.20,a456cfd2,Problem-Solving,One-variable data,2,14,903,,-
+SLT1,Math,1,21,SLT1 M 1.21,ebbf23ae,Geometry and Trigonometry,Circles,3,5,904,,-
+SLT1,Math,1,23,SLT1 M 1.23,c7c6445f,Problem-Solving,"Ratios, Rates, Proportions, and Units",3,D,905,,-
+SLT1,Math,1,24,SLT1 M 1.24,9bbce683,Algebra,Linear Equations in Two Variables,3,D,906,,-
+SLT1,Math,1,25,SLT1 M 1.25,a54753ca,Advanced Math,Nonlinear Equations and Systems,3,C,907,,-
+SLT1,Math,1,26,SLT1 M 1.26,75012ee7,Algebra,Systems of Linear Equations,3,B,908,,-
+SLT1,Math,1,27,SLT1 M 1.27,a4bd60a3,Geometry and Trigonometry,Right Triangles and Trigonometry,3,104,909,,-
+SLT1,Math,2,1,SLT1 M 2.1,551c52b9,Problem-Solving,"Ratios, Rates, Proportions, and Units",1,A,910,,-
+SLT1,Math,2,4,SLT1 M 2.4,c4d49134,Algebra,Linear Functions,1,D,911,,-
+SLT1,Math,2,8,SLT1 M 2.8,aad7e1b9,Algebra,Linear Functions,1,B,912,,-
+SLT1,Math,2,9,SLT1 M 2.9,a26c29f7,Advanced Math,Nonlinear Functions,2,D,913,,-
+SLT1,Math,2,10,SLT1 M 2.10,a67a439d,Advanced Math,Nonlinear Equations and Systems,1,A,914,,-
+SLT1,Math,2,11,SLT1 M 2.11,5805e747,Advanced Math,Equivalent Expressions,2,A,915,,-
+SLT1,Math,2,14,SLT1 M 2.14,4b09f783,Problem-Solving,One-variable data,1,10,916,,-
+SLT1,Math,2,15,SLT1 M 2.15,b7cd6ca6,Advanced Math,Nonlinear Functions,2,A,917,,-
+SLT1,Math,2,16,SLT1 M 2.16,341ba5db,Advanced Math,Nonlinear Functions,2,B,918,,-
+SLT1,Math,2,18,SLT1 M 2.18,ba61d95f,Problem-Solving,Percentages,2,C,919,,-
+SLT1,Math,2,19,SLT1 M 2.19,42f19012,Advanced Math,Equivalent Expressions,2,B,920,,-
+SLT1,Math,2,20,SLT1 M 2.20,74c98c82,Algebra,Linear Inequalities,2,16,921,,-
+SLT1,Math,2,22,SLT1 M 2.22,9966235e,Geometry and Trigonometry,Area and Volume,3,A,922,,-
+SLT1,Math,2,23,SLT1 M 2.23,b0a72bdc,Geometry and Trigonometry,Circles,3,B,923,,-
+SLT1,Math,2,24,SLT1 M 2.24,08d03fe4,Advanced Math,Nonlinear Functions,3,C,924,,-
+SLT1,Math,2,25,SLT1 M 2.25,ce579859,Advanced Math,Nonlinear Functions,3,B,925,,-
+SLT1,Math,2,26,SLT1 M 2.26,a35c7164,Algebra,Linear Equations in Two Variables,3,B,926,,-
+SLT2,Reading & Writing,1,22,SLT2 RW 1.22,04bfd364,Standard English Conventions,Boundaries,1,A,927,,-
+SLT2,Reading & Writing,1,23,SLT2 RW 1.23,0ff8477b,Standard English Conventions,"Form, Structure, and Sense",1,C,928,,-
+SLT2,Reading & Writing,1,24,SLT2 RW 1.24,d2cf0e11,Standard English Conventions,"Form, Structure, and Sense",2,C,929,,-
+SLT2,Reading & Writing,1,29,SLT2 RW 1.29,4b376902,Expression of Ideas,Rhetorical Synthesis,1,B,930,,-
+SLT2,Reading & Writing,1,31,SLT2 RW 1.31,5fa51c86,Expression of Ideas,Rhetorical Synthesis,3,C,931,,-
+SLT2,Reading & Writing,2,1,SLT2 RW 2.1,d5235d39,Craft and Structure,Words in Context,1,C,932,,-
+SLT2,Reading & Writing,2,6,SLT2 RW 2.6,97360a00,Craft and Structure,"Text, Structure, and Purpose",2,C,933,,-
+SLT2,Reading & Writing,2,7,SLT2 RW 2.7,ac9a3a26,Craft and Structure,"Text, Structure, and Purpose",3,A,934,,-
+SLT2,Reading & Writing,2,12,SLT2 RW 2.12,ec93e52c,Information and Ideas,Command of Evidence,3,A,935,,-
+SLT2,Reading & Writing,2,19,SLT2 RW 2.19,d75d57a0,Standard English Conventions,Boundaries,1,C,936,,-
+SLT2,Reading & Writing,2,31,SLT2 RW 2.31,264e7415,Expression of Ideas,Rhetorical Synthesis,1,A,937,,-
+SLT2,Reading & Writing,2,32,SLT2 RW 2.32,bc56170b,Expression of Ideas,Rhetorical Synthesis,2,C,938,,-
+SLT2,Math,1,1,SLT2 M 1.1,4a2264b3,Problem-Solving,Two-variable data,1,C,939,,-
+SLT2,Math,1,2,SLT2 M 1.2,b8150b17,Problem-Solving,Probability,1,C,940,,-
+SLT2,Math,1,11,SLT2 M 1.11,eac739b2,Algebra,Linear Equations in One Variable,1,B,941,,-
+SLT2,Math,1,16,SLT2 M 1.16,67f4b449,Advanced Math,Nonlinear Functions,2,A,942,,-
+SLT2,Math,1,22,SLT2 M 1.22,6ecdbcb4,Advanced Math,Nonlinear Functions,2,B,943,,-
+SLT2,Math,1,27,SLT2 M 1.27,2e92cc21,Problem-Solving,Percentages,3,9.87,944,,-
+SLT2,Math,2,6,SLT2 M 2.6,35bec412,Problem-Solving,One-variable data,1,79,945,,-
+SLT2,Math,2,8,SLT2 M 2.8,608eeb6e,Algebra,Systems of Linear Equations,1,C,946,,-
+SLT2,Math,2,15,SLT2 M 2.15,52931bfa,Advanced Math,Equivalent Expressions,2,B,947,,-
+SLT2,Math,2,17,SLT2 M 2.17,1f353a9e,Advanced Math,Nonlinear Functions,3,D,948,,-
+SLT2,Math,2,19,SLT2 M 2.19,5e08a055,Algebra,Systems of Linear Equations,3,B,949,,-
+SLT2,Math,2,21,SLT2 M 2.21,1362ccde,Algebra,Systems of Linear Equations,3,35,950,,-
+SLT2,Math,2,24,SLT2 M 2.24,9d159400,Geometry and Trigonometry,Circles,3,C,951,,-
+SLT3,Reading & Writing,1,9,SLT3 RW 1.9,a2be625e,Craft and Structure,"Text, Structure, and Purpose",2,D,952,,-
+SLT3,Reading & Writing,1,13,SLT3 RW 1.13,3f4ab688,Information and Ideas,Command of Evidence,3,C,953,,-
+SLT3,Reading & Writing,1,17,SLT3 RW 1.17,58e9e497,Information and Ideas,Inferences,3,A,954,,-
+SLT3,Reading & Writing,1,22,SLT3 RW 1.22,8a3998f1,Standard English Conventions,Boundaries,1,C,955,,-
+SLT3,Reading & Writing,1,28,SLT3 RW 1.28,48d0bb34,Expression of Ideas,Rhetorical Synthesis,2,A,956,,-
+SLT3,Reading & Writing,1,30,SLT3 RW 1.30,a1ca7ec4,Expression of Ideas,Rhetorical Synthesis,2,C,957,,-
+SLT3,Reading & Writing,1,31,SLT3 RW 1.31,dede8260,Expression of Ideas,Rhetorical Synthesis,2,B,958,,-
+SLT3,Reading & Writing,1,33,SLT3 RW 1.33,973632d2,Expression of Ideas,Rhetorical Synthesis,3,A,959,,-
+SLT3,Reading & Writing,2,8,SLT3 RW 2.8,d6c77ae5,Craft and Structure,Cross-Text Connections,3,C,960,,-
+SLT3,Reading & Writing,2,11,SLT3 RW 2.11,4fc9a13a,Information and Ideas,Command of Evidence,3,A,961,,-
+SLT3,Reading & Writing,2,14,SLT3 RW 2.14,af125459,Information and Ideas,Command of Evidence,1,C,962,,-
+SLT3,Reading & Writing,2,22,SLT3 RW 2.22,a427a52c,Standard English Conventions,Boundaries,2,C,963,,-
+SLT3,Reading & Writing,2,23,SLT3 RW 2.23,b6560e5a,Standard English Conventions,Boundaries,2,D,964,,-
+SLT3,Reading & Writing,2,32,SLT3 RW 2.32,88308a39,Expression of Ideas,Rhetorical Synthesis,2,D,965,,-
+SLT3,Math,1,8,SLT3 M 1.8,47624288,Problem-Solving,Probability,1,C,966,,-
+SLT3,Math,1,11,SLT3 M 1.11,24854644,Algebra,Linear Equations in Two Variables,1,B,967,,-
+SLT3,Math,1,12,SLT3 M 1.12,6efcc0a3,Algebra,Linear Functions,1,A,968,,-
+SLT3,Math,1,15,SLT3 M 1.15,8c515062,Algebra,Linear Equations in One Variable,2,D,969,,-
+SLT3,Math,1,18,SLT3 M 1.18,203774bc,Advanced Math,Nonlinear Functions,2,B,970,,-
+SLT3,Math,1,21,SLT3 M 1.21,040f2a84,Problem-Solving,Percentages,3,1.8,971,,-
+SLT3,Math,1,25,SLT3 M 1.25,20291f47,Advanced Math,Equivalent Expressions,3,C,972,,-
+SLT3,Math,2,13,SLT3 M 2.13,24cec8d1,Geometry and Trigonometry,Circles,3,46,973,,-
+SLT3,Math,2,15,SLT3 M 2.15,7efe5495,Algebra,Systems of Linear Equations,2,C,974,,-
+SLT3,Math,2,17,SLT3 M 2.17,1fe10d97,Advanced Math,Nonlinear Functions,3,D,975,,-
+SLT3,Math,2,20,SLT3 M 2.20,98958ae8,Problem-Solving,One-variable data,3,41,976,,-
+SLT3,Math,2,22,SLT3 M 2.22,a8ae0d22,Advanced Math,Nonlinear Functions,3,D,977,,-
+SLT3,Math,2,24,SLT3 M 2.24,d65b9a87,Problem-Solving,One-variable data,3,A,978,,-
+SLT3,Math,2,25,SLT3 M 2.25,568d66a7,Geometry and Trigonometry,Right Triangles and Trigonometry,3,B,979,,-
+SLT3,Math,2,26,SLT3 M 2.26,1ce9ffcd,Advanced Math,Nonlinear Equations and Systems,3,C,980,,-
+SLT3,Math,2,27,SLT3 M 2.27,ff501705,Algebra,Systems of Linear Equations,3,6,981,,-
+SLT4,Reading & Writing,1,1,SLT4 RW 1.1,bcc91b1e,Craft and Structure,Words in Context,1,B,982,,-
+SLT4,Reading & Writing,1,6,SLT4 RW 1.6,acb852e7,Craft and Structure,"Text, Structure, and Purpose",2,B,983,,-
+SLT4,Reading & Writing,1,14,SLT4 RW 1.14,860803dd,Information and Ideas,Command of Evidence,3,B,984,,-
+SLT4,Reading & Writing,1,21,SLT4 RW 1.21,0f39b19c,Standard English Conventions,Boundaries,2,D,985,,-
+SLT4,Reading & Writing,1,31,SLT4 RW 1.31,aec8d3e8,Expression of Ideas,Rhetorical Synthesis,2,D,986,,-
+SLT4,Reading & Writing,1,33,SLT4 RW 1.33,96a86bce,Expression of Ideas,Rhetorical Synthesis,3,C,987,,-
+SLT4,Reading & Writing,2,5,SLT4 RW 2.5,6a1194e8,Craft and Structure,Words in Context,2,B,988,,-
+SLT4,Reading & Writing,2,11,SLT4 RW 2.11,9c407117,Information and Ideas,Command of Evidence,3,A,989,,-
+SLT4,Reading & Writing,2,14,SLT4 RW 2.14,71904085,Information and Ideas,Command of Evidence,3,C,990,,-
+SLT4,Reading & Writing,2,22,SLT4 RW 2.22,74ce2f05,Standard English Conventions,Boundaries,2,D,991,,-
+SLT4,Reading & Writing,2,29,SLT4 RW 2.29,eae29760,Expression of Ideas,Rhetorical Synthesis,1,C,992,,-
+SLT4,Reading & Writing,2,30,SLT4 RW 2.30,04397a63,Expression of Ideas,Rhetorical Synthesis,2,C,993,,-
+SLT4,Math,1,3,SLT4 M 1.3,ce940f80,Algebra,Linear Inequalities,1,D,994,,-
+SLT4,Math,1,5,SLT4 M 1.5,776cfa7c,Problem-Solving,Probability,1,A,995,,-
+SLT4,Math,1,10,SLT4 M 1.10,50b2807e,Problem-Solving,Two-variable data,2,C,996,,-
+SLT4,Math,1,16,SLT4 M 1.16,4209aefe,Advanced Math,Nonlinear Functions,2,C,997,,-
+SLT4,Math,1,18,SLT4 M 1.18,ef926848,Algebra,Linear Equations in Two Variables,2,B,998,,-
+SLT4,Math,1,19,SLT4 M 1.19,17d0e87d,Advanced Math,Nonlinear Equations and Systems,3,D,999,,-
+SLT4,Math,1,21,SLT4 M 1.21,b74f2feb,Geometry and Trigonometry,Circles,3,5,1000,,-
+SLT4,Math,1,22,SLT4 M 1.22,306264ab,Geometry and Trigonometry,Circles,2,C,1001,,-
+SLT4,Math,1,26,SLT4 M 1.26,f03465dc,Algebra,Systems of Linear Equations,3,A,1002,,-
+SLT4,Math,1,27,SLT4 M 1.27,a45ffacb,Geometry and Trigonometry,Right Triangles and Trigonometry,3,104,1003,,-
+SLT4,Math,2,2,SLT4 M 2.2,85b33aa8,Problem-Solving,"Ratios, Rates, Proportions, and Units",1,B,1004,,-
+SLT4,Math,2,3,SLT4 M 2.3,fd4b2aa0,Advanced Math,Equivalent Expressions,1,C,1005,,-
+SLT4,Math,2,7,SLT4 M 2.7,5ad6bc97,Algebra,Linear Functions,1,50,1006,,-
+SLT4,Math,2,14,SLT4 M 2.14,3ce92ce8,Algebra,Linear Functions,2,2,1007,,-
+SLT4,Math,2,17,SLT4 M 2.17,153ee763,Algebra,Linear Equations in One Variable,3,B,1008,,-
+SLT4,Math,2,18,SLT4 M 2.18,4d7064a6,Advanced Math,Nonlinear Functions,3,D,1009,,-
+SLT4,Math,2,21,SLT4 M 2.21,1fe32f7d,Advanced Math,Nonlinear Equations and Systems,3,51,1010,,-
+SLT4,Math,2,22,SLT4 M 2.22,27f5fff3,Algebra,Systems of Linear Equations,3,A,1011,,-
+SLT4,Math,2,25,SLT4 M 2.25,9acd101f,Geometry and Trigonometry,Circles,3,D,1012,,-
+SLT4,Math,2,27,SLT4 M 2.27,40e7a1a9,Problem-Solving,Percentages,3,600,1013,,-
+PSAT1,Reading & Writing,1,1,PSAT1 RW 1.1,e1e89221,Craft and Structure,Words in Context,1,A,1014,,-
+PSAT1,Reading & Writing,1,2,PSAT1 RW 1.2,5fa165f7,Craft and Structure,Words in Context,1,D,1015,,-
+PSAT1,Reading & Writing,1,3,PSAT1 RW 1.3,5d2fd27d,Craft and Structure,Words in Context,1,B,1016,,-
+PSAT1,Reading & Writing,1,4,PSAT1 RW 1.4,760ee1db,Craft and Structure,Words in Context,1,C,1017,,-
+PSAT1,Reading & Writing,1,5,PSAT1 RW 1.5,e5da61f1,Craft and Structure,"Text, Structure, and Purpose",1,D,1018,,-
+PSAT1,Reading & Writing,1,6,PSAT1 RW 1.6,ae2b3112,Craft and Structure,"Text, Structure, and Purpose",2,A,1019,,-
+PSAT1,Reading & Writing,1,7,PSAT1 RW 1.7,ca50de52,Craft and Structure,"Text, Structure, and Purpose",3,A,1020,,-
+PSAT1,Reading & Writing,1,8,PSAT1 RW 1.8,9731a22b,Information and Ideas,Central Ideas and Details,3,D,1021,,-
+PSAT1,Reading & Writing,1,9,PSAT1 RW 1.9,701126bc,Information and Ideas,Central Ideas and Details,3,B,1022,,-
+PSAT1,Reading & Writing,1,10,PSAT1 RW 1.10,af125459,Information and Ideas,Command of Evidence,1,C,1023,,-
+PSAT1,Reading & Writing,1,11,PSAT1 RW 1.11,1703403b,Information and Ideas,Command of Evidence,1,C,1024,,-
+PSAT1,Reading & Writing,1,12,PSAT1 RW 1.12,7cbb9764,Information and Ideas,Command of Evidence,2,A,1025,,-
+PSAT1,Reading & Writing,1,13,PSAT1 RW 1.13,ccf414c9,Information and Ideas,Command of Evidence,2,A,1026,,-
+PSAT1,Reading & Writing,1,14,PSAT1 RW 1.14,c95995bc,Information and Ideas,Inferences,2,C,1027,,-
+PSAT1,Reading & Writing,1,15,PSAT1 RW 1.15,b1fab3e1,Information and Ideas,Inferences,2,B,1028,,-
+PSAT1,Reading & Writing,1,16,PSAT1 RW 1.16,7b419faf,Standard English Conventions,"Form, Structure, and Sense",1,B,1029,,-
+PSAT1,Reading & Writing,1,17,PSAT1 RW 1.17,856b495d,Standard English Conventions,"Form, Structure, and Sense",1,A,1030,,-
+PSAT1,Reading & Writing,1,18,PSAT1 RW 1.18,91fbd59d,Standard English Conventions,Boundaries,1,B,1031,,-
+PSAT1,Reading & Writing,1,19,PSAT1 RW 1.19,f2eaaf5d,Standard English Conventions,Boundaries,1,A,1032,,-
+PSAT1,Reading & Writing,1,20,PSAT1 RW 1.20,6f08641e,Standard English Conventions,"Form, Structure, and Sense",2,D,1033,,-
+PSAT1,Reading & Writing,1,21,PSAT1 RW 1.21,7ce4ee13,Standard English Conventions,Boundaries,3,C,1034,,-
+PSAT1,Reading & Writing,1,22,PSAT1 RW 1.22,34a5ba1c,Expression of Ideas,Transitions,1,B,1035,,-
+PSAT1,Reading & Writing,1,23,PSAT1 RW 1.23,9c78f702,Expression of Ideas,Transitions,1,D,1036,,-
+PSAT1,Reading & Writing,1,24,PSAT1 RW 1.24,c7e85c0a,Expression of Ideas,Transitions,1,A,1037,,-
+PSAT1,Reading & Writing,1,25,PSAT1 RW 1.25,7c9d0e38,Expression of Ideas,Rhetorical Synthesis,2,B,1038,,-
+PSAT1,Reading & Writing,1,26,PSAT1 RW 1.26,14037904,Expression of Ideas,Rhetorical Synthesis,2,C,1039,,-
+PSAT1,Reading & Writing,1,27,PSAT1 RW 1.27,bb275f0d,Expression of Ideas,Rhetorical Synthesis,2,D,1040,,-
+PSAT1,Reading & Writing,2,1,PSAT1 RW 2.1,b11bb2a3,Craft and Structure,Words in Context,1,B,1041,,-
+PSAT1,Reading & Writing,2,2,PSAT1 RW 2.2,e7b709fc,Craft and Structure,Words in Context,1,B,1042,,-
+PSAT1,Reading & Writing,2,3,PSAT1 RW 2.3,213248f7,Craft and Structure,Words in Context,1,C,1043,,-
+PSAT1,Reading & Writing,2,4,PSAT1 RW 2.4,cb526866,Craft and Structure,Words in Context,1,C,1044,,-
+PSAT1,Reading & Writing,2,5,PSAT1 RW 2.5,54c6128b,Craft and Structure,"Text, Structure, and Purpose",2,A,1045,,-
+PSAT1,Reading & Writing,2,6,PSAT1 RW 2.6,19688783,Craft and Structure,"Text, Structure, and Purpose",2,D,1046,,-
+PSAT1,Reading & Writing,2,7,PSAT1 RW 2.7,74446089,Craft and Structure,"Text, Structure, and Purpose",2,C,1047,,-
+PSAT1,Reading & Writing,2,8,PSAT1 RW 2.8,84dbd633,Craft and Structure,Cross-Text Connections,3,B,1048,,-
+PSAT1,Reading & Writing,2,9,PSAT1 RW 2.9,04bcb7a9,Information and Ideas,Central Ideas and Details,1,C,1049,,-
+PSAT1,Reading & Writing,2,10,PSAT1 RW 2.10,12030076,Information and Ideas,Central Ideas and Details,2,D,1050,,-
+PSAT1,Reading & Writing,2,11,PSAT1 RW 2.11,38e79659,Information and Ideas,Command of Evidence,1,A,1051,,-
+PSAT1,Reading & Writing,2,12,PSAT1 RW 2.12,75e07a4d,Information and Ideas,Command of Evidence,1,C,1052,,-
+PSAT1,Reading & Writing,2,13,PSAT1 RW 2.13,f9c4bdab,Information and Ideas,Command of Evidence,3,D,1053,,-
+PSAT1,Reading & Writing,2,14,PSAT1 RW 2.14,6e0e0de1,Information and Ideas,Inferences,3,D,1054,,-
+PSAT1,Reading & Writing,2,15,PSAT1 RW 2.15,843f92af,Standard English Conventions,"Form, Structure, and Sense",1,C,1055,,-
+PSAT1,Reading & Writing,2,16,PSAT1 RW 2.16,35360da9,Standard English Conventions,"Form, Structure, and Sense",1,C,1056,,-
+PSAT1,Reading & Writing,2,17,PSAT1 RW 2.17,898f182c,Standard English Conventions,"Form, Structure, and Sense",1,C,1057,,-
+PSAT1,Reading & Writing,2,18,PSAT1 RW 2.18,e38b3e4f,Standard English Conventions,"Form, Structure, and Sense",1,A,1058,,-
+PSAT1,Reading & Writing,2,19,PSAT1 RW 2.19,97b62fab,Standard English Conventions,"Form, Structure, and Sense",1,C,1059,,-
+PSAT1,Reading & Writing,2,20,PSAT1 RW 2.20,dddfa043,Standard English Conventions,Boundaries,1,C,1060,,-
+PSAT1,Reading & Writing,2,21,PSAT1 RW 2.21,9091458d,Standard English Conventions,Boundaries,1,D,1061,,-
+PSAT1,Reading & Writing,2,22,PSAT1 RW 2.22,de55ec71,Standard English Conventions,Boundaries,1,A,1062,,-
+PSAT1,Reading & Writing,2,23,PSAT1 RW 2.23,60713427,Standard English Conventions,Boundaries,1,C,1063,,-
+PSAT1,Reading & Writing,2,24,PSAT1 RW 2.24,2bda9edb,Expression of Ideas,Transitions,1,A,1064,,-
+PSAT1,Reading & Writing,2,25,PSAT1 RW 2.25,7d56630a,Expression of Ideas,Transitions,1,B,1065,,-
+PSAT1,Reading & Writing,2,26,PSAT1 RW 2.26,d54e16ee,Expression of Ideas,Transitions,2,C,1066,,-
+PSAT1,Reading & Writing,2,27,PSAT1 RW 2.27,2b5f4bdc,Expression of Ideas,Transitions,2,A,1067,,-
+PSAT1,Reading & Writing,3,1,PSAT1 RW 3.1,9b2fbb2e,Craft and Structure,Words in Context,1,C,1068,,-
+PSAT1,Reading & Writing,3,2,PSAT1 RW 3.2,c2c26e20,Craft and Structure,Words in Context,1,A,1069,,-
+PSAT1,Reading & Writing,3,3,PSAT1 RW 3.3,c5b1afe5,Craft and Structure,Words in Context,2,C,1070,,-
+PSAT1,Reading & Writing,3,4,PSAT1 RW 3.4,b13378c8,Craft and Structure,"Text, Structure, and Purpose",2,A,1071,,-
+PSAT1,Reading & Writing,3,5,PSAT1 RW 3.5,975b0602,Craft and Structure,"Text, Structure, and Purpose",3,C,1072,,-
+PSAT1,Reading & Writing,3,6,PSAT1 RW 3.6,19688783,Craft and Structure,"Text, Structure, and Purpose",2,D,1073,,-
+PSAT1,Reading & Writing,3,7,PSAT1 RW 3.7,e1befb41,Craft and Structure,Cross-Text Connections,2,C,1074,,-
+PSAT1,Reading & Writing,3,8,PSAT1 RW 3.8,d0f51067,Information and Ideas,Central Ideas and Details,3,B,1075,,-
+PSAT1,Reading & Writing,3,9,PSAT1 RW 3.9,db2da2bf,Information and Ideas,Central Ideas and Details,3,D,1076,,-
+PSAT1,Reading & Writing,3,10,PSAT1 RW 3.10,f7bd14de,Information and Ideas,Central Ideas and Details,3,D,1077,,-
+PSAT1,Reading & Writing,3,11,PSAT1 RW 3.11,dc47c2ac,Information and Ideas,Command of Evidence,2,D,1078,,-
+PSAT1,Reading & Writing,3,12,PSAT1 RW 3.12,80fd9454,Information and Ideas,Command of Evidence,3,A,1079,,-
+PSAT1,Reading & Writing,3,13,PSAT1 RW 3.13,b32c4b3a,Information and Ideas,Command of Evidence,3,D,1080,,-
+PSAT1,Reading & Writing,3,14,PSAT1 RW 3.14,9c591ff7,Information and Ideas,Inferences,3,B,1081,,-
+PSAT1,Reading & Writing,3,15,PSAT1 RW 3.15,e15c50b2,Standard English Conventions,Boundaries,1,B,1082,,-
+PSAT1,Reading & Writing,3,16,PSAT1 RW 3.16,c91ef0f0,Standard English Conventions,"Form, Structure, and Sense",3,D,1083,,-
+PSAT1,Reading & Writing,3,17,PSAT1 RW 3.17,73a6603c,Standard English Conventions,Boundaries,3,C,1084,,-
+PSAT1,Reading & Writing,3,18,PSAT1 RW 3.18,adf210e7,Standard English Conventions,Boundaries,3,D,1085,,-
+PSAT1,Reading & Writing,3,19,PSAT1 RW 3.19,83898524,Standard English Conventions,Boundaries,3,D,1086,,-
+PSAT1,Reading & Writing,3,20,PSAT1 RW 3.20,aaa1907f,Standard English Conventions,Boundaries,3,B,1087,,-
+PSAT1,Reading & Writing,3,21,PSAT1 RW 3.21,9091458d,Standard English Conventions,Boundaries,1,D,1088,,-
+PSAT1,Reading & Writing,3,22,PSAT1 RW 3.22,b7c404d1,Expression of Ideas,Transitions,2,C,1089,,-
+PSAT1,Reading & Writing,3,23,PSAT1 RW 3.23,480ade7e,Expression of Ideas,Transitions,3,B,1090,,-
+PSAT1,Reading & Writing,3,24,PSAT1 RW 3.24,1c6e1d55,Expression of Ideas,Transitions,3,D,1091,,-
+PSAT1,Reading & Writing,3,25,PSAT1 RW 3.25,d7c5388f,Expression of Ideas,Rhetorical Synthesis,2,D,1092,,-
+PSAT1,Reading & Writing,3,26,PSAT1 RW 3.26,7fd39a42,Expression of Ideas,Rhetorical Synthesis,2,C,1093,,-
+PSAT1,Reading & Writing,3,27,PSAT1 RW 3.27,f1d8550e,Expression of Ideas,Rhetorical Synthesis,2,A,1094,,-
+PSAT1,Math,1,1,PSAT1 M 1.1,e166aca6,Advanced Math,Nonlinear Functions,1,D,1095,,-
+PSAT1,Math,1,2,PSAT1 M 1.2,6fa593f1,Algebra,Linear Equations in One Variable,1,C,1096,,-
+PSAT1,Math,1,3,PSAT1 M 1.3,9c44f828,Problem-Solving,Percentages,1,C,1097,,-
+PSAT1,Math,1,4,PSAT1 M 1.4,8452c42b,Advanced Math,Equivalent Expressions,1,D,1098,,-
+PSAT1,Math,1,5,PSAT1 M 1.5,bfa8a85c,Problem-Solving,One-variable data,1,B,1099,,-
+PSAT1,Math,1,6,PSAT1 M 1.6,fe1ec415,Problem-Solving,"Ratios, Rates, Proportions, and Units",1,C,1100,,-
+PSAT1,Math,1,7,PSAT1 M 1.7,64c1f044,Geometry and Trigonometry,Right Triangles and Trigonometry,1,C,1101,,-
+PSAT1,Math,1,8,PSAT1 M 1.8,39aa146d,Problem-Solving,Two-variable data,1,C,1102,,-
+PSAT1,Math,1,9,PSAT1 M 1.9,2d0e13a6,Algebra,Linear Equations in Two Variables,1,0.25,1103,,-
+PSAT1,Math,1,10,PSAT1 M 1.10,4a5af623,Advanced Math,Equivalent Expressions,1,A,1104,,-
+PSAT1,Math,1,11,PSAT1 M 1.11,9da41c80,Advanced Math,Nonlinear Functions,1,B,1105,,-
+PSAT1,Math,1,12,PSAT1 M 1.12,73b5f330,Algebra,Linear Functions,1,A,1106,,-
+PSAT1,Math,1,13,PSAT1 M 1.13,d0b6d927,Geometry and Trigonometry,Area and Volume,1,A,1107,,-
+PSAT1,Math,1,14,PSAT1 M 1.14,e8779461,Advanced Math,Nonlinear Equations and Systems,2,99,1108,,-
+PSAT1,Math,1,15,PSAT1 M 1.15,ad03127d,Advanced Math,Nonlinear Equations and Systems,1,D,1109,,-
+PSAT1,Math,1,16,PSAT1 M 1.16,763e6769,Problem-Solving,"Ratios, Rates, Proportions, and Units",1,A,1110,,-
+PSAT1,Math,1,17,PSAT1 M 1.17,c1bd5301,Algebra,Linear Functions,2,241,1111,,-
+PSAT1,Math,1,18,PSAT1 M 1.18,686b5212,Geometry and Trigonometry,"Lines, Angles, and Triangles",2,57,1112,,-
+PSAT1,Math,1,19,PSAT1 M 1.19,c17d9ba9,Algebra,Linear Inequalities,2,-2,1113,,-
+PSAT1,Math,1,20,PSAT1 M 1.20,8a87c2c8,Algebra,Systems of Linear Equations,2,C,1114,,-
+PSAT1,Math,1,21,PSAT1 M 1.21,04bbce67,Advanced Math,Nonlinear Functions,3,-7,1115,,-
+PSAT1,Math,1,22,PSAT1 M 1.22,981aca65,Advanced Math,Nonlinear Functions,2,B,1116,,-
+PSAT1,Math,2,1,PSAT1 M 2.1,57f45509,Problem-Solving,One-variable data,1,C,1117,,-
+PSAT1,Math,2,2,PSAT1 M 2.2,720e51ac,Algebra,Linear Functions,1,C,1118,,-
+PSAT1,Math,2,3,PSAT1 M 2.3,b64e2c7f,Algebra,Linear Inequalities,1,B,1119,,-
+PSAT1,Math,2,4,PSAT1 M 2.4,837e9da7,Advanced Math,Nonlinear Functions,1,D,1120,,-
+PSAT1,Math,2,5,PSAT1 M 2.5,b4553284,Algebra,Linear Equations in One Variable,1,54,1121,,-
+PSAT1,Math,2,6,PSAT1 M 2.6,c3989ef8,Algebra,Linear Equations in One Variable,1,B,1122,,-
+PSAT1,Math,2,7,PSAT1 M 2.7,ff2c1431,Advanced Math,Nonlinear Equations and Systems,2,B,1123,,-
+PSAT1,Math,2,8,PSAT1 M 2.8,bf883fde,Algebra,Linear Functions,1,B,1124,,-
+PSAT1,Math,2,9,PSAT1 M 2.9,79201024,Problem-Solving,Probability,1,B,1125,,-
+PSAT1,Math,2,10,PSAT1 M 2.10,1e003284,Advanced Math,Nonlinear Equations and Systems,1,A,1126,,-
+PSAT1,Math,2,11,PSAT1 M 2.11,b0c5ece5,Geometry and Trigonometry,Right Triangles and Trigonometry,1,C,1127,,-
+PSAT1,Math,2,12,PSAT1 M 2.12,c8e0f511,Algebra,Linear Equations in Two Variables,1,A,1128,,-
+PSAT1,Math,2,13,PSAT1 M 2.13,2d16d62c,Problem-Solving,"Ratios, Rates, Proportions, and Units",1,348,1129,,-
+PSAT1,Math,2,14,PSAT1 M 2.14,e7343559,Algebra,Linear Equations in Two Variables,1,C,1130,,-
+PSAT1,Math,2,15,PSAT1 M 2.15,f9d40000,Geometry and Trigonometry,"Lines, Angles, and Triangles",1,C,1131,,-
+PSAT1,Math,2,16,PSAT1 M 2.16,59a49431,Algebra,Linear Inequalities,1,D,1132,,-
+PSAT1,Math,2,17,PSAT1 M 2.17,f88970cc,Algebra,Systems of Linear Equations,1,B,1133,,-
+PSAT1,Math,2,18,PSAT1 M 2.18,c7bed21d,Geometry and Trigonometry,"Lines, Angles, and Triangles",2,B,1134,,-
+PSAT1,Math,2,19,PSAT1 M 2.19,5ae186b4,Advanced Math,Nonlinear Equations and Systems,2,-9,1135,,-
+PSAT1,Math,2,20,PSAT1 M 2.20,d693f563,Problem-Solving,Percentages,2,56,1136,,-
+PSAT1,Math,2,21,PSAT1 M 2.21,735a0a00,Advanced Math,Nonlinear Functions,2,C,1137,,-
+PSAT1,Math,2,22,PSAT1 M 2.22,271ffad7,Advanced Math,Nonlinear Functions,3,B,1138,,-
+PSAT1,Math,3,1,PSAT1 M 3.1,7d6928bd,Algebra,Linear Inequalities,1,A,1139,,-
+PSAT1,Math,3,2,PSAT1 M 3.2,5c94e6fa,Algebra,Linear Equations in One Variable,1,21,1140,,-
+PSAT1,Math,3,3,PSAT1 M 3.3,db0107df,Algebra,Linear Equations in Two Variables,1,9,1141,,-
+PSAT1,Math,3,4,PSAT1 M 3.4,4fbffc0a,Advanced Math,Nonlinear Functions,1,A,1142,,-
+PSAT1,Math,3,5,PSAT1 M 3.5,4096a482,Problem-Solving,Sample Statistics and Margin of Error,2,A,1143,,-
+PSAT1,Math,3,6,PSAT1 M 3.6,560fab82,Problem-Solving,One-variable data,2,19,1144,,-
+PSAT1,Math,3,7,PSAT1 M 3.7,ff2c1431,Advanced Math,Nonlinear Equations and Systems,2,B,1145,,-
+PSAT1,Math,3,8,PSAT1 M 3.8,a5834ea4,Algebra,Linear Functions,2,B,1146,,-
+PSAT1,Math,3,9,PSAT1 M 3.9,beca03de,Advanced Math,Nonlinear Functions,2,A,1147,,-
+PSAT1,Math,3,10,PSAT1 M 3.10,7e1bff94,Algebra,Linear Functions,2,C,1148,,-
+PSAT1,Math,3,11,PSAT1 M 3.11,7cab9fe1,Problem-Solving,Percentages,2,A,1149,,-
+PSAT1,Math,3,12,PSAT1 M 3.12,d02193fb,Algebra,Linear Inequalities,2,D,1150,,-
+PSAT1,Math,3,13,PSAT1 M 3.13,062f86db,Advanced Math,Nonlinear Equations and Systems,2,C,1151,,-
+PSAT1,Math,3,14,PSAT1 M 3.14,96c3e32d,Problem-Solving,"Ratios, Rates, Proportions, and Units",2,16606,1152,,-
+PSAT1,Math,3,15,PSAT1 M 3.15,d909cd31,Algebra,Systems of Linear Equations,2,C,1153,,-
+PSAT1,Math,3,16,PSAT1 M 3.16,74c03c21,Algebra,Systems of Linear Equations,2,B,1154,,-
+PSAT1,Math,3,17,PSAT1 M 3.17,9bb4107c,Problem-Solving,Two-variable data,2,0.5,1155,,-
+PSAT1,Math,3,18,PSAT1 M 3.18,c7bed21d,Geometry and Trigonometry,"Lines, Angles, and Triangles",2,B,1156,,-
+PSAT1,Math,3,19,PSAT1 M 3.19,c8fb6bcb,Algebra,Linear Functions,2,B,1157,,-
+PSAT1,Math,3,20,PSAT1 M 3.20,2f51abc2,Advanced Math,Nonlinear Functions,3,A,1158,,-
+PSAT1,Math,3,21,PSAT1 M 3.21,a0369739,Geometry and Trigonometry,"Lines, Angles, and Triangles",3,D,1159,,-
+PSAT1,Math,3,22,PSAT1 M 3.22,5edc8c98,Advanced Math,Nonlinear Equations and Systems,3,0.0625,1160,,-
